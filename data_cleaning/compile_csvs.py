@@ -6,7 +6,6 @@ Created on Sat Oct 16 17:35:13 2021
 """
 
 import pandas as pd
-import numpy as np
 
 COL_BUSINESS_DATA = ['State', 'State_Name', 'County', 'County_Name', 'NAICS', 'NAICS_Description', 'Enterprise_Size', 'Firms', 'Establishments', 'Employment', 'Employment_Noise_Flag', 'Annual_Payroll', 'Annual_Payroll_Noise_Flag']
 SERVICE_INDUSTRIES = ['Food Services and Drinking Places', 'Accommodation and Food Services', 'Accommodation', 'Food and Beverage Stores', 'Retail Trade', 'General Merchandise Stores', 'Clothing and Clothing Accessories Stores']
