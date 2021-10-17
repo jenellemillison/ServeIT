@@ -1,106 +1,127 @@
 County_Name,NAICS_Description,Firms,Establishments,Employment,Annual_Payroll
 Anderson,Accommodation,13,13,72,1434
-Anderson,Accommodation and Food Services,4915,4916,270581,41287624
-Anderson,Clothing and Clothing Accessories Stores,6,6,22,268
-Anderson,Food Services and Drinking Places,3613,3613,198525,26946747
-Anderson,Food and Beverage Stores,9,9,36,565
 Anderson,Retail Trade,797,7910,335221,90267307
+Anderson,Food and Beverage Stores,9,9,36,565
+Anderson,Total,816,891,12216,439936
+Anderson,Clothing and Clothing Accessories Stores,6,6,22,268
+Anderson,Accommodation and Food Services,4915,4916,270581,41287624
+Anderson,Food Services and Drinking Places,3613,3613,198525,26946747
 Andrews,Accommodation,4,4,29,545
 Andrews,Accommodation and Food Services,246,246,162152,26172378
 Andrews,Clothing and Clothing Accessories Stores,4,4,15,365
 Andrews,Food Services and Drinking Places,205,205,133134,20721963
 Andrews,Retail Trade,193,193,8489,23555503
+Andrews,Total,411,432,5757,375343
+Angelina,Retail Trade,13228,13231,563785,1598233502
+Angelina,Food and Beverage Stores,10,10,27,630
+Angelina,Total,1656,1857,29102,1048665
+Angelina,Clothing and Clothing Accessories Stores,13,13,40,1089
 Angelina,Accommodation,133,133,8351,1353667
 Angelina,Accommodation and Food Services,6929,6932,4761003,763315349
-Angelina,Clothing and Clothing Accessories Stores,13,13,40,1089
 Angelina,Food Services and Drinking Places,5626,5629,393952,628014682
-Angelina,Food and Beverage Stores,10,10,27,630
-Angelina,Retail Trade,13228,13231,563785,1598233502
 Aransas,Accommodation,273,273,12859,3063929
 Aransas,Accommodation and Food Services,6311,6311,401316,82766234
 Aransas,Clothing and Clothing Accessories Stores,6,6,21,485
 Aransas,Food Services and Drinking Places,368,368,273257,52135305
 Aransas,Food and Beverage Stores,4,4,3,128
 Aransas,Retail Trade,374,384,140142,40587128
-Archer,Accommodation and Food Services,3,3,17,207
+Aransas,Total,466,487,3883,135005
+Archer,Total,209,215,1270,46765
 Archer,Food Services and Drinking Places,3,3,17,207
 Archer,Food and Beverage Stores,3,3,7,44
 Archer,Retail Trade,14,14,51,1151
-Atascosa,Accommodation,143,143,4769,9092357
+Archer,Accommodation and Food Services,3,3,17,207
+Armstrong,Total,48,49,268,9643
 Atascosa,Accommodation and Food Services,4616,4621,208548,33129527
+Atascosa,Accommodation,143,143,4769,9092357
+Atascosa,Total,765,830,11918,625835
 Atascosa,Clothing and Clothing Accessories Stores,5,5,7,161
 Atascosa,Food Services and Drinking Places,3213,3218,161479,24037170
 Atascosa,Food and Beverage Stores,13,13,64,713
 Atascosa,Retail Trade,719,7112,365235,92319572
-Austin,Accommodation,10,10,53,825
-Austin,Accommodation and Food Services,418,418,250244,37194580
-Austin,Clothing and Clothing Accessories Stores,8,8,29,321
 Austin,Food Services and Drinking Places,318,318,197244,28944580
 Austin,Food and Beverage Stores,133,133,50125,10452824
 Austin,Retail Trade,7110,7110,272296,768710575
+Austin,Accommodation and Food Services,418,418,250244,37194580
+Austin,Total,653,684,7572,323956
+Austin,Clothing and Clothing Accessories Stores,8,8,29,321
+Austin,Accommodation,10,10,53,825
 Bailey,Accommodation,3,3,7,146
 Bailey,Accommodation and Food Services,104,104,43149,6052446
 Bailey,Food Services and Drinking Places,74,74,36149,4592446
 Bailey,Retail Trade,11,11,46,1323
-Bandera,Accommodation,115,115,41175,15523449
-Bandera,Accommodation and Food Services,3311,3312,135342,28145496
-Bandera,Clothing and Clothing Accessories Stores,6,6,29,403
-Bandera,Food Services and Drinking Places,226,227,94167,12622047
+Bailey,Total,136,144,1376,45066
 Bandera,Food and Beverage Stores,5,5,14,274
 Bandera,Retail Trade,464,464,19247,39481857
+Bandera,Food Services and Drinking Places,226,227,94167,12622047
+Bandera,Clothing and Clothing Accessories Stores,6,6,29,403
+Bandera,Accommodation and Food Services,3311,3312,135342,28145496
+Bandera,Total,375,381,3045,92231
+Bandera,Accommodation,115,115,41175,15523449
+Bastrop,Total,1272,1385,15145,503951
+Bastrop,Food and Beverage Stores,27,28,108,1820
 Bastrop,Accommodation,18,18,120,2211
 Bastrop,Accommodation and Food Services,8320,8320,545732,850110748
 Bastrop,Clothing and Clothing Accessories Stores,8,8,54,1142
 Bastrop,Food Services and Drinking Places,6520,6520,425732,629010748
-Bastrop,Food and Beverage Stores,27,28,108,1820
 Bastrop,Retail Trade,13114,13214,504399,1193315582
 Baylor,Accommodation,3,3,18,282
-Baylor,Accommodation and Food Services,9,9,56,762
-Baylor,Food Services and Drinking Places,6,6,38,480
+Baylor,Total,99,101,817,20960
 Baylor,Retail Trade,6,6,37,821
-Bee,Accommodation,12,12,73,1119
-Bee,Accommodation and Food Services,367,3611,206266,32653708
+Baylor,Food Services and Drinking Places,6,6,38,480
+Baylor,Accommodation and Food Services,9,9,56,762
 Bee,Clothing and Clothing Accessories Stores,6,6,22,427
-Bee,Food Services and Drinking Places,247,2411,133266,21463708
-Bee,Food and Beverage Stores,3,3,7,119
+Bee,Accommodation and Food Services,367,3611,206266,32653708
+Bee,Accommodation,12,12,73,1119
 Bee,Retail Trade,384,384,200106,51784151
+Bee,Food and Beverage Stores,3,3,7,119
+Bee,Food Services and Drinking Places,247,2411,133266,21463708
+Bee,Total,433,462,5020,174131
+Bell,Total,4238,5249,96534,4072237
+Bell,Food and Beverage Stores,736,786,233162,39443538
 Bell,Accommodation,5012,5013,293374,50516270
 Bell,Accommodation and Food Services,325107,326126,20124123,2914553763
 Bell,Clothing and Clothing Accessories Stores,41,41,157,2769
 Bell,Food Services and Drinking Places,27595,276113,17193749,2409447493
-Bell,Food and Beverage Stores,736,786,233162,39443538
 Bell,Retail Trade,39554,40464,15671514,3632059339
+Bexar,Food and Beverage Stores,34723,34936,1191847,2415718348
 Bexar,Accommodation,20758,20863,12871870,2430932081
 Bexar,Accommodation and Food Services,1927625,1940698,1134624818,217976429214
 Bexar,Clothing and Clothing Accessories Stores,2338,2459,1104174,306684126
 Bexar,Food Services and Drinking Places,1720567,1732635,1005922948,193667397133
-Bexar,Food and Beverage Stores,34723,34936,1191847,2415718348
 Bexar,General Merchandise Stores,16,16,52,1139
 Bexar,Retail Trade,2256204,2307307,95056314,266337229536
+Bexar,Total,27475,36547,768295,36075718
 Blanco,Accommodation,6,6,31,500
+Blanco,Total,319,332,2326,109411
 Blanco,Accommodation and Food Services,265,275,175142,26272964
 Blanco,Food Services and Drinking Places,205,215,144142,21272964
 Blanco,Food and Beverage Stores,5,5,19,592
 Blanco,Retail Trade,27,28,97,2748
+Borden,Total,7,7,33,949
+Bosque,Total,276,288,2475,84945
 Bosque,Accommodation,7,7,24,406
 Bosque,Accommodation and Food Services,255,255,13594,21791338
 Bosque,Food Services and Drinking Places,183,183,11154,1773740
 Bosque,Food and Beverage Stores,9,9,40,528
 Bosque,Retail Trade,34,34,199,4832
-Bowie,Accommodation,116,116,98169,19902223
-Bowie,Accommodation and Food Services,7857,7859,5571811,990424863
 Bowie,Clothing and Clothing Accessories Stores,20,20,125,2695
 Bowie,Food Services and Drinking Places,6751,6753,4591642,791422640
 Bowie,Food and Beverage Stores,84,84,3180,6111070
-Bowie,General Merchandise Stores,4,4,20,298
 Bowie,Retail Trade,17437,17554,8661194,2205246383
-Brazoria,Accommodation,5115,5115,296408,56076663
-Brazoria,Accommodation and Food Services,324121,324125,18623973,3407565672
+Bowie,Accommodation and Food Services,7857,7859,5571811,990424863
+Bowie,Total,1870,2190,33821,1199543
+Bowie,General Merchandise Stores,4,4,20,298
+Bowie,Accommodation,116,116,98169,19902223
 Brazoria,Clothing and Clothing Accessories Stores,30,30,117,1761
-Brazoria,Food Services and Drinking Places,273106,273110,15663565,2846859009
-Brazoria,Food and Beverage Stores,465,478,18198,34542256
+Brazoria,Total,4994,5818,94522,5114379
+Brazoria,Accommodation,5115,5115,296408,56076663
 Brazoria,General Merchandise Stores,9,9,27,517
+Brazoria,Food and Beverage Stores,465,478,18198,34542256
+Brazoria,Food Services and Drinking Places,273106,273110,15663565,2846859009
+Brazoria,Accommodation and Food Services,324121,324125,18623973,3407565672
 Brazoria,Retail Trade,40540,41146,16431117,4560042788
+Brazos,Total,3878,4467,70078,2683570
 Brazos,Accommodation,429,429,360263,96224344
 Brazos,Accommodation and Food Services,22791,227105,17003354,3328851023
 Brazos,Clothing and Clothing Accessories Stores,334,334,17577,30941903
@@ -108,39 +129,47 @@ Brazos,Food Services and Drinking Places,18582,18596,13403091,2366646679
 Brazos,Food and Beverage Stores,534,534,240106,40221952
 Brazos,General Merchandise Stores,3,3,18,366
 Brazos,Retail Trade,37032,37637,1943887,5109336450
+Brewster,Retail Trade,25,25,158,3840
+Brewster,Food and Beverage Stores,6,6,63,1098
+Brewster,Food Services and Drinking Places,206,206,113205,13643116
+Brewster,Total,278,286,2653,72203
 Brewster,Accommodation,167,167,103292,16956334
 Brewster,Accommodation and Food Services,3613,3613,216497,30599450
-Brewster,Food Services and Drinking Places,206,206,113205,13643116
-Brewster,Food and Beverage Stores,6,6,63,1098
-Brewster,Retail Trade,25,25,158,3840
 Briscoe,Retail Trade,6,6,21,545
+Briscoe,Total,35,36,160,4247
+Brooks,Total,104,113,1541,35543
 Brooks,Accommodation,5,5,39,825
 Brooks,Accommodation and Food Services,9,9,68,1307
 Brooks,Food Services and Drinking Places,4,4,29,482
 Brooks,Retail Trade,8,8,39,955
+Brown,Food and Beverage Stores,9,9,42,744
 Brown,Accommodation,114,114,3994,5281132
 Brown,Accommodation and Food Services,5123,5125,255663,39749347
 Brown,Clothing and Clothing Accessories Stores,7,7,20,350
 Brown,Food Services and Drinking Places,4019,4021,216569,34468215
-Brown,Food and Beverage Stores,9,9,42,744
+Brown,Total,807,871,13182,460589
 Brown,Retail Trade,829,8214,365254,83518538
 Burleson,Accommodation,7,7,30,440
 Burleson,Accommodation and Food Services,32,32,133,1854
+Burleson,Total,314,332,3391,153672
 Burleson,Food Services and Drinking Places,25,25,103,1414
 Burleson,Food and Beverage Stores,6,6,19,295
 Burleson,Retail Trade,41,41,150,3896
 Burnet,Accommodation,179,1711,109349,244512499
-Burnet,Accommodation and Food Services,7727,7733,475963,905423042
-Burnet,Clothing and Clothing Accessories Stores,11,13,66,1679
 Burnet,Food Services and Drinking Places,6018,6022,366614,660910543
+Burnet,Clothing and Clothing Accessories Stores,11,13,66,1679
+Burnet,Accommodation and Food Services,7727,7733,475963,905423042
 Burnet,Food and Beverage Stores,4,4,12,305
+Burnet,Total,1241,1312,12520,508546
 Burnet,Retail Trade,10712,11013,475317,1201014407
-Caldwell,Accommodation,10,10,57,1021
-Caldwell,Accommodation and Food Services,4110,4110,222301,41387320
-Caldwell,Clothing and Clothing Accessories Stores,3,3,9,389
-Caldwell,Food Services and Drinking Places,3110,3110,165301,31177320
-Caldwell,Food and Beverage Stores,6,6,29,353
 Caldwell,Retail Trade,485,485,208104,59374324
+Caldwell,Food and Beverage Stores,6,6,29,353
+Caldwell,Food Services and Drinking Places,3110,3110,165301,31177320
+Caldwell,Total,567,613,6161,219313
+Caldwell,Accommodation and Food Services,4110,4110,222301,41387320
+Caldwell,Accommodation,10,10,57,1021
+Caldwell,Clothing and Clothing Accessories Stores,3,3,9,389
+Calhoun,Total,427,444,8265,543359
 Calhoun,Accommodation,194,194,7283,1789976
 Calhoun,Accommodation and Food Services,4810,4811,253249,45163577
 Calhoun,Food Services and Drinking Places,296,297,181166,27272601
@@ -148,61 +177,74 @@ Calhoun,Food and Beverage Stores,7,7,22,425
 Calhoun,Retail Trade,39,39,183,5348
 Callahan,Accommodation and Food Services,65,66,34159,4391572
 Callahan,Food Services and Drinking Places,45,46,30159,3751572
+Callahan,Total,201,217,1646,65980
 Callahan,Food and Beverage Stores,3,3,13,149
 Callahan,Retail Trade,17,17,67,1598
-Cameron,Accommodation,5917,5917,400503,63708454
-Cameron,Accommodation and Food Services,384116,386135,22744180,3420961726
-Cameron,Clothing and Clothing Accessories Stores,68,68,274,4265
-Cameron,Food Services and Drinking Places,32599,327118,18743677,2783953272
-Cameron,Food and Beverage Stores,5913,6416,275396,43337299
 Cameron,General Merchandise Stores,8,8,37,704
 Cameron,Retail Trade,46268,47483,20472114,4411659549
+Cameron,Food and Beverage Stores,5913,6416,275396,43337299
+Cameron,Food Services and Drinking Places,32599,327118,18743677,2783953272
+Cameron,Clothing and Clothing Accessories Stores,68,68,274,4265
+Cameron,Accommodation and Food Services,384116,386135,22744180,3420961726
+Cameron,Accommodation,5917,5917,400503,63708454
+Cameron,Total,5101,6449,109216,3018500
+Camp,Total,195,206,2392,106606
+Camp,Food and Beverage Stores,5,5,17,480
 Camp,Accommodation and Food Services,123,123,5495,7041287
 Camp,Clothing and Clothing Accessories Stores,3,3,10,191
 Camp,Food Services and Drinking Places,103,103,5095,6681287
-Camp,Food and Beverage Stores,5,5,17,480
 Camp,Retail Trade,273,274,14565,43502460
 Carson,Accommodation and Food Services,6,6,18,244
 Carson,Food Services and Drinking Places,4,4,15,183
 Carson,Retail Trade,14,14,41,1046
-Cass,Accommodation,6,6,31,418
+Carson,Total,119,125,871,40043
 Cass,Accommodation and Food Services,437,437,240200,31672398
-Cass,Food Services and Drinking Places,377,377,209200,27492398
-Cass,Food and Beverage Stores,3,3,19,258
+Cass,Total,470,509,5677,203849
 Cass,Retail Trade,394,394,20064,52621382
+Cass,Food Services and Drinking Places,377,377,209200,27492398
+Cass,Accommodation,6,6,31,418
+Cass,Food and Beverage Stores,3,3,19,258
 Castro,Accommodation and Food Services,12,12,50,675
 Castro,Food Services and Drinking Places,10,10,46,622
 Castro,Retail Trade,23,23,85,2331
+Castro,Total,157,160,1169,41769
+Chambers,Total,633,674,13914,924940
+Chambers,Retail Trade,786,786,394116,115943905
+Chambers,Food and Beverage Stores,13,13,55,1065
 Chambers,Accommodation,13,13,91,1397
 Chambers,Accommodation and Food Services,4713,4713,295456,43467013
-Chambers,Clothing and Clothing Accessories Stores,3,3,7,61
 Chambers,Food Services and Drinking Places,3413,3413,204456,29497013
-Chambers,Food and Beverage Stores,13,13,55,1065
-Chambers,Retail Trade,786,786,394116,115943905
+Chambers,Clothing and Clothing Accessories Stores,3,3,7,61
 Cherokee,Accommodation,9,9,49,723
 Cherokee,Accommodation and Food Services,404,404,216121,31131594
 Cherokee,Clothing and Clothing Accessories Stores,4,4,10,77
 Cherokee,Food Services and Drinking Places,314,314,167121,23901594
 Cherokee,Food and Beverage Stores,8,8,23,375
 Cherokee,Retail Trade,6811,7013,257283,79248899
-Childress,Accommodation,6,6,76,979
-Childress,Accommodation and Food Services,144,144,11491,14381488
+Cherokee,Total,703,763,10876,399605
+Childress,Total,157,164,1251,40072
 Childress,Food Services and Drinking Places,83,83,3870,4591138
+Childress,Accommodation and Food Services,144,144,11491,14381488
+Childress,Accommodation,6,6,76,979
 Childress,Retail Trade,15,15,54,876
+Clay,Total,136,140,752,26809
 Clay,Accommodation and Food Services,3,3,1,127
 Clay,Clothing and Clothing Accessories Stores,3,3,10,183
 Clay,Food Services and Drinking Places,3,3,1,127
 Clay,Retail Trade,19,19,76,3364
+Cochran,Total,41,42,234,7376
 Cochran,Retail Trade,5,5,26,399
 Coke,Accommodation and Food Services,6,6,16,269
 Coke,Food Services and Drinking Places,6,6,16,269
 Coke,Food and Beverage Stores,3,3,16,192
 Coke,Retail Trade,5,5,29,427
-Coleman,Accommodation,4,4,12,252
-Coleman,Accommodation and Food Services,19,19,124,1523
-Coleman,Food Services and Drinking Places,15,15,112,1271
-Coleman,Food and Beverage Stores,5,5,22,253
+Coke,Total,56,59,258,7501
+Coleman,Total,194,197,1449,42409
 Coleman,Retail Trade,183,183,62115,12632320
+Coleman,Food and Beverage Stores,5,5,22,253
+Coleman,Food Services and Drinking Places,15,15,112,1271
+Coleman,Accommodation and Food Services,19,19,124,1523
+Coleman,Accommodation,4,4,12,252
 Collin,Accommodation,4924,4924,354636,693112959
 Collin,Accommodation and Food Services,1162340,1163361,710811574,142818214646
 Collin,Clothing and Clothing Accessories Stores,1356,1367,60271,111571914
@@ -210,157 +252,194 @@ Collin,Food Services and Drinking Places,1113316,1114337,675410938,135887201687
 Collin,Food and Beverage Stores,16214,16216,569435,1096710231
 Collin,General Merchandise Stores,8,8,35,773
 Collin,Retail Trade,1351120,1361146,52123280,155986136714
+Collin,Total,20575,24699,434685,27911325
+Collingsworth,Retail Trade,6,6,19,767
+Collingsworth,Total,63,65,479,17847
 Collingsworth,Accommodation and Food Services,6,6,29,393
 Collingsworth,Food Services and Drinking Places,6,6,29,393
-Collingsworth,Retail Trade,6,6,19,767
-Colorado,Accommodation,11,11,49,871
 Colorado,Accommodation and Food Services,365,365,202167,31553776
-Colorado,Clothing and Clothing Accessories Stores,5,5,13,185
-Colorado,Food Services and Drinking Places,255,255,153167,22843776
+Colorado,Accommodation,11,11,49,871
+Colorado,Total,523,552,6208,250798
 Colorado,Food and Beverage Stores,13,13,55,817
+Colorado,Food Services and Drinking Places,255,255,153167,22843776
+Colorado,Clothing and Clothing Accessories Stores,5,5,13,185
 Colorado,Retail Trade,796,796,340167,76416011
 Comal,Accommodation,498,508,397240,83353875
 Comal,Accommodation and Food Services,19580,19686,13053042,2633452994
 Comal,Clothing and Clothing Accessories Stores,283,283,13545,1987645
 Comal,Food Services and Drinking Places,14672,14678,9082802,1799949119
 Comal,Food and Beverage Stores,12,13,33,1035
-Comal,General Merchandise Stores,4,4,38,463
 Comal,Retail Trade,23917,24317,1135467,3636819275
+Comal,Total,3493,3823,51846,2120200
+Comal,General Merchandise Stores,4,4,38,463
+Comanche,Retail Trade,266,268,110219,30547395
 Comanche,Accommodation and Food Services,143,143,10649,1164843
 Comanche,Food Services and Drinking Places,133,133,9149,969843
-Comanche,Retail Trade,266,268,110219,30547395
-Concho,Accommodation and Food Services,3,3,9,182
+Comanche,Total,230,246,2607,90666
 Concho,Retail Trade,11,11,52,947
+Concho,Total,46,48,392,13456
+Concho,Accommodation and Food Services,3,3,9,182
+Cooke,Total,870,916,13287,597238
 Cooke,Accommodation,17,18,111,1771
 Cooke,Accommodation and Food Services,4512,4712,315381,44436458
 Cooke,Clothing and Clothing Accessories Stores,8,8,33,753
 Cooke,Food Services and Drinking Places,2812,2912,204381,26726458
 Cooke,Food and Beverage Stores,13,13,27,792
 Cooke,Retail Trade,8817,8818,421483,1045320856
-Coryell,Accommodation,12,12,66,927
-Coryell,Accommodation and Food Services,5415,5415,301412,41195327
-Coryell,Clothing and Clothing Accessories Stores,6,6,25,693
-Coryell,Food Services and Drinking Places,4214,4214,235382,31924736
-Coryell,Food and Beverage Stores,15,15,74,1178
 Coryell,Retail Trade,683,683,31835,7039799
+Coryell,Food and Beverage Stores,15,15,74,1178
+Coryell,Food Services and Drinking Places,4214,4214,235382,31924736
+Coryell,Clothing and Clothing Accessories Stores,6,6,25,693
+Coryell,Accommodation,12,12,66,927
+Coryell,Total,674,733,9510,288911
+Coryell,Accommodation and Food Services,5415,5415,301412,41195327
+Cottle,Total,27,27,135,3102
 Cottle,Accommodation and Food Services,3,3,19,148
 Cottle,Food Services and Drinking Places,3,3,19,148
 Cottle,Retail Trade,5,5,39,838
+Crane,Retail Trade,6,6,41,1570
+Crane,Total,89,90,1049,62261
 Crane,Accommodation and Food Services,7,7,45,563
 Crane,Food Services and Drinking Places,7,7,45,563
-Crane,Retail Trade,6,6,41,1570
-Crockett,Accommodation,53,53,2483,3791347
 Crockett,Accommodation and Food Services,157,157,73212,9022334
 Crockett,Food Services and Drinking Places,104,104,49129,523987
 Crockett,Retail Trade,73,73,2569,6491472
+Crockett,Total,115,120,1155,57489
+Crockett,Accommodation,53,53,2483,3791347
 Crosby,Retail Trade,5,5,19,574
+Crosby,Total,82,91,571,21614
+Culberson,Total,56,58,695,35908
 Culberson,Accommodation,9,9,56,1107
-Culberson,Accommodation and Food Services,12,12,86,1581
-Culberson,Food Services and Drinking Places,3,3,30,474
 Culberson,Retail Trade,10,11,55,1415
+Culberson,Food Services and Drinking Places,3,3,30,474
+Culberson,Accommodation and Food Services,12,12,86,1581
 Dallam,Accommodation,8,8,62,803
+Dallam,Retail Trade,145,146,6576,19463481
+Dallam,Total,198,211,1702,66692
 Dallam,Accommodation and Food Services,183,183,93112,13291763
 Dallam,Food Services and Drinking Places,103,103,31112,5261763
-Dallam,Retail Trade,145,146,6576,19463481
-Dallas,Accommodation,27096,27297,16643195,3801369114
+Dallas,Total,53315,66685,1502707,94655456
 Dallas,Accommodation and Food Services,3003999,30221116,1739236442,379858745044
+Dallas,Accommodation,27096,27297,16643195,3801369114
 Dallas,Clothing and Clothing Accessories Stores,44436,45045,1792841,6874744487
 Dallas,Food Services and Drinking Places,2733903,27501019,1572833247,341845675930
 Dallas,Food and Beverage Stores,73669,73775,24542636,5592662714
 Dallas,General Merchandise Stores,51,51,163,5230
 Dallas,Retail Trade,4303384,4340477,1756412283,573805484770
-Dawson,Accommodation,5,5,29,615
-Dawson,Accommodation and Food Services,166,166,92154,28212291
+Dawson,Retail Trade,196,196,80169,25498278
 Dawson,Food Services and Drinking Places,116,116,63154,22062291
 Dawson,Food and Beverage Stores,5,5,15,182
-Dawson,Retail Trade,196,196,80169,25498278
+Dawson,Accommodation,5,5,29,615
+Dawson,Accommodation and Food Services,166,166,92154,28212291
+Dawson,Total,270,279,2609,104464
+DeWitt,Total,425,454,5527,242620
 DeWitt,Accommodation,7,7,41,568
 DeWitt,Accommodation and Food Services,35,35,217,3488
 DeWitt,Clothing and Clothing Accessories Stores,4,4,4,37
 DeWitt,Food Services and Drinking Places,28,28,176,2920
 DeWitt,Food and Beverage Stores,6,6,23,442
 DeWitt,Retail Trade,417,427,198258,53656713
+Deaf Smith,Retail Trade,143,143,8095,23484355
 Deaf Smith,Accommodation and Food Services,245,245,125150,16941921
 Deaf Smith,Food Services and Drinking Places,223,223,124105,16631285
-Deaf Smith,Retail Trade,143,143,8095,23484355
+Deaf Smith,Total,358,374,5436,237657
+Delta,Total,55,55,380,7311
 Delta,Retail Trade,9,9,43,836
-Denton,Accommodation,4915,4915,358481,68939883
 Denton,Accommodation and Food Services,865258,868272,52738770,97691142151
-Denton,Clothing and Clothing Accessories Stores,675,676,30676,68992283
-Denton,Food Services and Drinking Places,816243,819257,49158289,90798132268
-Denton,Food and Beverage Stores,1268,12810,457220,103745704
-Denton,General Merchandise Stores,6,6,13,447
 Denton,Retail Trade,92190,927103,37482248,10838988194
-Dickens,Accommodation and Food Services,3,3,30,356
-Dickens,Food Services and Drinking Places,3,3,30,356
+Denton,General Merchandise Stores,6,6,13,447
+Denton,Food and Beverage Stores,1268,12810,457220,103745704
+Denton,Food Services and Drinking Places,816243,819257,49158289,90798132268
+Denton,Clothing and Clothing Accessories Stores,675,676,30676,68992283
+Denton,Total,13244,15521,224526,10675697
+Denton,Accommodation,4915,4915,358481,68939883
+Dickens,Total,38,38,238,8627
 Dickens,Retail Trade,5,5,21,520
-Dimmit,Accommodation,8,8,46,551
-Dimmit,Accommodation and Food Services,133,133,5874,8811079
-Dimmit,Food Services and Drinking Places,53,53,1274,3301079
-Dimmit,Food and Beverage Stores,3,3,18,357
+Dickens,Food Services and Drinking Places,3,3,30,356
+Dickens,Accommodation and Food Services,3,3,30,356
 Dimmit,Retail Trade,14,14,99,2404
+Dimmit,Accommodation,8,8,46,551
+Dimmit,Food Services and Drinking Places,53,53,1274,3301079
+Dimmit,Accommodation and Food Services,133,133,5874,8811079
+Dimmit,Total,216,236,4545,255790
+Dimmit,Food and Beverage Stores,3,3,18,357
 Donley,Accommodation and Food Services,5,5,40,784
 Donley,Food Services and Drinking Places,3,3,23,423
 Donley,Retail Trade,6,6,22,603
-Duval,Accommodation,6,6,30,405
-Duval,Accommodation and Food Services,16,16,99,1048
+Donley,Total,72,73,382,9421
+Duval,Total,134,149,1845,70728
 Duval,Food Services and Drinking Places,10,10,69,643
 Duval,Retail Trade,9,9,46,975
-Eastland,Accommodation,10,10,58,861
-Eastland,Accommodation and Food Services,2610,2611,174206,25183445
+Duval,Accommodation and Food Services,16,16,99,1048
+Duval,Accommodation,6,6,30,405
+Eastland,Total,400,440,5827,255103
 Eastland,Food Services and Drinking Places,169,1610,116186,16573145
+Eastland,Accommodation and Food Services,2610,2611,174206,25183445
+Eastland,Accommodation,10,10,58,861
 Eastland,Food and Beverage Stores,4,4,21,371
 Eastland,Retail Trade,413,423,20763,50501412
 Ector,Accommodation,2011,2011,144301,29125690
-Ector,Accommodation and Food Services,12969,12977,7872366,1978440592
-Ector,Clothing and Clothing Accessories Stores,19,19,66,1568
-Ector,Food Services and Drinking Places,10958,10966,6432065,1687234902
-Ector,Food and Beverage Stores,25,26,81,2511
 Ector,Retail Trade,19322,19627,832505,2939129178
+Ector,Food and Beverage Stores,25,26,81,2511
+Ector,Food Services and Drinking Places,10958,10966,6432065,1687234902
+Ector,Accommodation and Food Services,12969,12977,7872366,1978440592
+Ector,Total,3287,3782,66620,3973956
+Ector,Clothing and Clothing Accessories Stores,19,19,66,1568
+Edwards,Total,39,39,291,8060
 Edwards,Accommodation and Food Services,4,4,23,184
 Edwards,Food Services and Drinking Places,3,3,20,131
 Edwards,Retail Trade,5,5,34,733
-El Paso,Accommodation,4917,4917,273629,702811117
 El Paso,Accommodation and Food Services,782261,792335,465410022,71280151134
 El Paso,Clothing and Clothing Accessories Stores,13912,14616,579221,192433440
 El Paso,Food Services and Drinking Places,733244,743318,43819393,64252140017
 El Paso,Food and Beverage Stores,10410,10625,428389,90369162
 El Paso,General Merchandise Stores,20,24,112,1679
 El Paso,Retail Trade,88788,929145,39252799,10093380640
+El Paso,Accommodation,4917,4917,273629,702811117
+El Paso,Total,11574,14845,242717,8037141
+Ellis,Food and Beverage Stores,303,303,10984,2119723
+Ellis,Total,2761,3076,46240,1908837
 Ellis,Accommodation,163,163,11780,21771346
 Ellis,Accommodation and Food Services,12654,12758,8321589,1456624239
 Ellis,Clothing and Clothing Accessories Stores,14,14,41,753
 Ellis,Food Services and Drinking Places,11051,11155,7151509,1238922893
-Ellis,Food and Beverage Stores,303,303,10984,2119723
 Ellis,Retail Trade,23221,23324,1018493,2622214627
-Erath,Accommodation,11,11,41,722
-Erath,Accommodation and Food Services,5723,5724,322726,493410899
 Erath,Clothing and Clothing Accessories Stores,10,10,54,879
-Erath,Food Services and Drinking Places,4622,4623,281703,421210367
+Erath,Accommodation and Food Services,5723,5724,322726,493410899
+Erath,Accommodation,11,11,41,722
 Erath,Food and Beverage Stores,12,12,53,1341
+Erath,Total,943,983,12642,457412
+Erath,Food Services and Drinking Places,4622,4623,281703,421210367
 Erath,Retail Trade,10210,10210,451247,124758094
-Falls,Accommodation and Food Services,8,8,30,336
-Falls,Food Services and Drinking Places,6,6,7,132
-Falls,Food and Beverage Stores,53,53,1839,302485
+Falls,Total,208,222,1713,54638
 Falls,Retail Trade,317,317,140121,29724494
+Falls,Food and Beverage Stores,53,53,1839,302485
+Falls,Food Services and Drinking Places,6,6,7,132
+Falls,Accommodation and Food Services,8,8,30,336
+Fannin,Total,464,492,5438,209418
 Fannin,Accommodation,3,3,8,132
 Fannin,Accommodation and Food Services,2211,2211,119265,19293093
 Fannin,Food Services and Drinking Places,1911,1911,111265,17973093
 Fannin,Food and Beverage Stores,10,10,34,615
 Fannin,Retail Trade,474,474,18481,42812770
+Fayette,Food Services and Drinking Places,479,4710,383260,59484098
 Fayette,Accommodation,19,19,95,1954
 Fayette,Accommodation and Food Services,669,6610,478260,79024098
 Fayette,Clothing and Clothing Accessories Stores,6,6,28,967
-Fayette,Food Services and Drinking Places,479,4710,383260,59484098
-Fayette,Food and Beverage Stores,10,10,57,1126
 Fayette,Retail Trade,7913,7913,424338,1318512259
-Fisher,Food and Beverage Stores,3,3,4,80
+Fayette,Total,725,771,7078,266683
+Fayette,Food and Beverage Stores,10,10,57,1126
 Fisher,Retail Trade,12,12,25,938
+Fisher,Food and Beverage Stores,3,3,4,80
+Fisher,Total,65,65,472,23176
 Floyd,Accommodation and Food Services,7,7,25,296
 Floyd,Food Services and Drinking Places,5,5,20,258
 Floyd,Retail Trade,8,8,27,848
-Foard,Food and Beverage Stores,3,3,13,111
+Floyd,Total,139,143,939,34886
 Foard,Retail Trade,4,4,19,327
+Foard,Food and Beverage Stores,3,3,13,111
+Foard,Total,23,24,148,4091
+Fort Bend,Total,12466,13982,176213,8064962
 Fort Bend,Accommodation,4213,4213,251310,44315385
 Fort Bend,Accommodation and Food Services,715222,715242,41077340,80426123525
 Fort Bend,Clothing and Clothing Accessories Stores,533,533,16835,4373501
@@ -369,135 +448,163 @@ Fort Bend,Food and Beverage Stores,21316,21318,552446,110699394
 Fort Bend,General Merchandise Stores,17,17,59,1711
 Fort Bend,Retail Trade,105076,105387,34821956,9798165692
 Franklin,Accommodation and Food Services,10,10,105,2046
+Franklin,Total,155,162,6690,104342
 Franklin,Food Services and Drinking Places,8,8,88,1858
 Franklin,Retail Trade,143,143,4346,10561398
+Freestone,Retail Trade,327,347,162103,43624143
+Freestone,Food and Beverage Stores,3,3,4,425
+Freestone,Food Services and Drinking Places,96,96,76121,8791413
+Freestone,Total,343,375,3265,138967
 Freestone,Accommodation,8,8,40,569
 Freestone,Accommodation and Food Services,177,177,116149,14481798
-Freestone,Food Services and Drinking Places,96,96,76121,8791413
-Freestone,Food and Beverage Stores,3,3,4,425
-Freestone,Retail Trade,327,347,162103,43624143
-Frio,Accommodation,17,17,62,839
+Frio,Retail Trade,266,276,147100,50863684
+Frio,Food and Beverage Stores,4,4,6,158
+Frio,Total,306,324,5373,261171
 Frio,Accommodation and Food Services,327,327,166174,22912672
 Frio,Food Services and Drinking Places,156,156,104129,14521898
-Frio,Food and Beverage Stores,4,4,6,158
-Frio,Retail Trade,266,276,147100,50863684
+Frio,Accommodation,17,17,62,839
 Gaines,Accommodation,4,4,29,472
+Gaines,Total,442,464,4949,294243
 Gaines,Accommodation and Food Services,245,245,162125,26731880
 Gaines,Clothing and Clothing Accessories Stores,5,5,11,336
 Gaines,Food Services and Drinking Places,204,204,133103,22011538
 Gaines,Food and Beverage Stores,4,4,17,216
 Gaines,Retail Trade,38,38,136,4212
+Galveston,General Merchandise Stores,6,6,14,182
 Galveston,Accommodation,5119,5119,287564,587010665
 Galveston,Accommodation and Food Services,385136,387143,23784901,4473991230
 Galveston,Clothing and Clothing Accessories Stores,48,50,196,4178
 Galveston,Food Services and Drinking Places,334117,336124,20914337,3886980565
 Galveston,Food and Beverage Stores,1036,1076,366270,93666602
-Galveston,General Merchandise Stores,6,6,14,182
 Galveston,Retail Trade,55227,56232,2175847,5928534210
-Garza,Accommodation,5,5,18,286
+Galveston,Total,5148,5945,85722,3556259
 Garza,Accommodation and Food Services,8,8,32,700
 Garza,Food Services and Drinking Places,3,3,14,414
 Garza,Food and Beverage Stores,3,3,25,723
 Garza,Retail Trade,10,10,63,1663
-Gillespie,Accommodation,323,323,17069,29721414
-Gillespie,Accommodation and Food Services,8137,8237,5451137,1020423385
-Gillespie,Clothing and Clothing Accessories Stores,20,21,103,2260
-Gillespie,Food Services and Drinking Places,4934,5034,3751068,723221971
-Gillespie,Food and Beverage Stores,163,165,8956,20831241
+Garza,Accommodation,5,5,18,286
+Garza,Total,120,122,1233,49839
+Gillespie,Total,1016,1049,9822,362888
 Gillespie,General Merchandise Stores,4,4,25,772
 Gillespie,Retail Trade,13012,13315,716246,184276994
+Gillespie,Food Services and Drinking Places,4934,5034,3751068,723221971
+Gillespie,Clothing and Clothing Accessories Stores,20,21,103,2260
+Gillespie,Accommodation and Food Services,8137,8237,5451137,1020423385
+Gillespie,Accommodation,323,323,17069,29721414
+Gillespie,Food and Beverage Stores,163,165,8956,20831241
+Glasscock,Total,32,38,365,35555
+Goliad,Total,131,132,956,42914
 Goliad,Accommodation and Food Services,13,13,52,901
 Goliad,Food Services and Drinking Places,11,11,49,835
 Goliad,Retail Trade,14,14,61,1841
-Gonzales,Accommodation,11,11,84,1673
-Gonzales,Accommodation and Food Services,354,354,210113,34371579
+Gonzales,Total,382,396,4875,190342
 Gonzales,Food Services and Drinking Places,244,244,126113,17641579
-Gonzales,Food and Beverage Stores,3,3,6,96
 Gonzales,Retail Trade,373,373,15784,48743001
-Gray,Accommodation,6,6,69,933
-Gray,Accommodation and Food Services,298,299,218239,31562767
-Gray,Clothing and Clothing Accessories Stores,4,4,17,277
-Gray,Food Services and Drinking Places,238,239,149239,22232767
+Gonzales,Food and Beverage Stores,3,3,6,96
+Gonzales,Accommodation and Food Services,354,354,210113,34371579
+Gonzales,Accommodation,11,11,84,1673
 Gray,Food and Beverage Stores,5,6,28,473
 Gray,Retail Trade,483,493,208115,53263835
-Grayson,Accommodation,18,18,113,2444
-Grayson,Accommodation and Food Services,13134,13135,7971166,1332318031
+Gray,Total,520,549,5881,274527
+Gray,Clothing and Clothing Accessories Stores,4,4,17,277
+Gray,Accommodation,6,6,69,933
+Gray,Food Services and Drinking Places,238,239,149239,22232767
+Gray,Accommodation and Food Services,298,299,218239,31562767
+Grayson,Total,2387,2639,40194,1580711
 Grayson,Clothing and Clothing Accessories Stores,17,17,39,844
-Grayson,Food Services and Drinking Places,11332,11333,6841080,1087917411
-Grayson,Food and Beverage Stores,233,253,7372,15911491
 Grayson,Retail Trade,23531,24037,959962,2845037190
-Gregg,Accommodation,408,408,257229,43233692
-Gregg,Accommodation and Food Services,18078,18088,10502514,1774337300
-Gregg,Clothing and Clothing Accessories Stores,343,344,14678,29091405
-Gregg,Food Services and Drinking Places,14070,14080,7932285,1342033608
-Gregg,Food and Beverage Stores,234,244,60112,11422459
+Grayson,Food and Beverage Stores,233,253,7372,15911491
+Grayson,Food Services and Drinking Places,11332,11333,6841080,1087917411
+Grayson,Accommodation and Food Services,13134,13135,7971166,1332318031
+Grayson,Accommodation,18,18,113,2444
 Gregg,Retail Trade,30750,31057,12621464,4102659057
+Gregg,Food and Beverage Stores,234,244,60112,11422459
+Gregg,Food Services and Drinking Places,14070,14080,7932285,1342033608
+Gregg,Clothing and Clothing Accessories Stores,343,344,14678,29091405
+Gregg,Accommodation and Food Services,18078,18088,10502514,1774337300
+Gregg,Accommodation,408,408,257229,43233692
+Gregg,Total,3437,4019,66299,3009567
+Grimes,Total,411,431,5632,285934
+Grimes,Retail Trade,485,486,19787,59843431
 Grimes,Accommodation,6,6,31,420
 Grimes,Accommodation and Food Services,273,273,16799,29981365
 Grimes,Clothing and Clothing Accessories Stores,5,5,6,115
 Grimes,Food Services and Drinking Places,213,213,13699,25781365
 Grimes,Food and Beverage Stores,5,5,16,261
-Grimes,Retail Trade,485,486,19787,59843431
-Guadalupe,Accommodation,176,176,111192,17162966
 Guadalupe,Accommodation and Food Services,11239,11241,6341468,1109222845
+Guadalupe,Retail Trade,14016,14017,516429,1458816953
+Guadalupe,Food and Beverage Stores,17,17,58,1133
+Guadalupe,Total,1975,2165,34727,1622729
 Guadalupe,Clothing and Clothing Accessories Stores,8,8,27,521
 Guadalupe,Food Services and Drinking Places,9533,9535,5231276,937619879
-Guadalupe,Food and Beverage Stores,17,17,58,1133
-Guadalupe,Retail Trade,14016,14017,516429,1458816953
+Guadalupe,Accommodation,176,176,111192,17162966
 Hale,Accommodation,6,6,43,745
 Hale,Accommodation and Food Services,3713,3713,181421,31426922
 Hale,Clothing and Clothing Accessories Stores,6,6,35,589
 Hale,Food Services and Drinking Places,3111,3111,138377,23976327
 Hale,Food and Beverage Stores,4,4,17,345
 Hale,Retail Trade,475,485,221170,57116363
+Hale,Total,625,676,9454,395333
 Hall,Accommodation and Food Services,8,8,19,321
 Hall,Food Services and Drinking Places,7,7,17,258
 Hall,Food and Beverage Stores,3,3,11,141
 Hall,Retail Trade,6,6,20,374
-Hamilton,Accommodation,6,6,26,372
+Hall,Total,65,68,402,10219
+Hamilton,Total,215,227,1693,56085
 Hamilton,Accommodation and Food Services,187,187,91164,14312383
-Hamilton,Food Services and Drinking Places,127,127,65164,10592383
 Hamilton,Food and Beverage Stores,7,7,39,527
+Hamilton,Food Services and Drinking Places,127,127,65164,10592383
 Hamilton,Retail Trade,304,308,145115,37853826
+Hamilton,Accommodation,6,6,26,372
 Hansford,Accommodation and Food Services,3,3,15,166
 Hansford,Retail Trade,163,164,12045,46041083
+Hansford,Total,139,148,1157,46688
+Hardeman,Total,83,86,741,26939
+Hardeman,Retail Trade,8,8,34,755
 Hardeman,Accommodation and Food Services,7,7,65,666
 Hardeman,Food Services and Drinking Places,6,6,48,485
-Hardeman,Retail Trade,8,8,34,755
+Hardin,Clothing and Clothing Accessories Stores,9,9,26,453
 Hardin,Accommodation,8,8,29,401
 Hardin,Accommodation and Food Services,4717,4721,243546,36167889
-Hardin,Clothing and Clothing Accessories Stores,9,9,26,453
+Hardin,Total,753,827,9055,357696
 Hardin,Food Services and Drinking Places,3917,3921,214546,32157889
 Hardin,Food and Beverage Stores,16,16,63,806
 Hardin,Retail Trade,9013,9013,382411,1036718572
+Harris,Retail Trade,7188494,7323692,2692316191,838432563600
 Harris,Accommodation,556121,557125,27534130,5797285100
 Harris,Accommodation and Food Services,50801502,51031685,2987857891,6132981117735
 Harris,Clothing and Clothing Accessories Stores,58048,58974,22961318,6649135629
-Harris,Food Services and Drinking Places,45241381,45461560,2712553761,5553261032635
 Harris,Food and Beverage Stores,1408125,1418149,45144419,10446993261
+Harris,Food Services and Drinking Places,45241381,45461560,2712553761,5553261032635
+Harris,Total,81769,103417,2057494,136025727
 Harris,General Merchandise Stores,97,101,414,8614
-Harris,Retail Trade,7188494,7323692,2692316191,838432563600
-Harrison,Accommodation,18,18,110,2404
-Harrison,Accommodation and Food Services,5522,5522,350643,59388034
-Harrison,Clothing and Clothing Accessories Stores,6,6,34,799
-Harrison,Food Services and Drinking Places,3722,3722,240643,35348034
+Harrison,Total,1185,1292,19550,862718
 Harrison,Food and Beverage Stores,10,10,42,593
 Harrison,Retail Trade,9112,9121,405292,1133912486
+Harrison,Food Services and Drinking Places,3722,3722,240643,35348034
+Harrison,Clothing and Clothing Accessories Stores,6,6,34,799
+Harrison,Accommodation and Food Services,5522,5522,350643,59388034
+Harrison,Accommodation,18,18,110,2404
 Hartley,Retail Trade,7,7,25,831
-Haskell,Accommodation,5,5,20,411
-Haskell,Accommodation and Food Services,12,12,45,655
-Haskell,Food Services and Drinking Places,7,7,25,244
-Haskell,Food and Beverage Stores,3,3,3,70
+Hartley,Total,112,112,1210,46667
+Haskell,Total,134,139,949,28716
 Haskell,Retail Trade,18,18,92,2797
+Haskell,Accommodation and Food Services,12,12,45,655
+Haskell,Food and Beverage Stores,3,3,3,70
+Haskell,Accommodation,5,5,20,411
+Haskell,Food Services and Drinking Places,7,7,25,244
 Hays,Accommodation,4011,4011,287305,54774933
 Hays,Accommodation and Food Services,211101,212111,14333634,2626352597
 Hays,Clothing and Clothing Accessories Stores,22,22,108,1446
 Hays,Food Services and Drinking Places,17190,172100,11463329,2078647664
 Hays,Food and Beverage Stores,255,255,139108,27162909
 Hays,Retail Trade,25232,25434,1079871,2808335813
+Hays,Total,3922,4452,63484,2174550
+Hemphill,Total,133,140,1598,112935
 Hemphill,Accommodation and Food Services,5,5,27,473
 Hemphill,Food Services and Drinking Places,3,3,13,220
 Hemphill,Retail Trade,9,9,46,1385
+Henderson,Total,1177,1316,13921,502266
 Henderson,Accommodation,13,13,59,885
 Henderson,Accommodation and Food Services,9222,9224,490573,66128187
 Henderson,Clothing and Clothing Accessories Stores,8,8,16,209
@@ -507,92 +614,109 @@ Henderson,General Merchandise Stores,3,4,15,295
 Henderson,Retail Trade,13911,14213,569199,133735463
 Hidalgo,Accommodation,6611,6611,407325,67995163
 Hidalgo,Accommodation and Food Services,560167,560198,29846383,4687798351
-Hidalgo,Clothing and Clothing Accessories Stores,1127,1159,506252,101132598
-Hidalgo,Food Services and Drinking Places,494156,494187,25776058,4007893188
 Hidalgo,Food and Beverage Stores,15121,15230,619675,1095311754
 Hidalgo,General Merchandise Stores,25,25,96,1514
+Hidalgo,Clothing and Clothing Accessories Stores,1127,1159,506252,101132598
+Hidalgo,Food Services and Drinking Places,494156,494187,25776058,4007893188
 Hidalgo,Retail Trade,957103,970142,43793244,10560795251
-Hill,Accommodation,14,14,84,1202
-Hill,Accommodation and Food Services,4511,4511,237303,35684217
-Hill,Clothing and Clothing Accessories Stores,3,3,6,90
-Hill,Food Services and Drinking Places,3111,3111,153303,23664217
-Hill,Food and Beverage Stores,5,5,12,153
+Hidalgo,Total,9921,12361,203903,5859143
+Hill,Total,608,646,7861,268410
 Hill,Retail Trade,806,818,368138,83645809
-Hockley,Accommodation,4,4,39,537
+Hill,Food and Beverage Stores,5,5,12,153
+Hill,Clothing and Clothing Accessories Stores,3,3,6,90
+Hill,Accommodation and Food Services,4511,4511,237303,35684217
+Hill,Accommodation,14,14,84,1202
+Hill,Food Services and Drinking Places,3111,3111,153303,23664217
+Hockley,Total,453,497,7109,396290
 Hockley,Accommodation and Food Services,265,265,215196,26152513
-Hockley,Clothing and Clothing Accessories Stores,7,7,27,490
-Hockley,Food Services and Drinking Places,225,225,176196,20782513
 Hockley,Retail Trade,353,353,13780,37733773
-Hood,Accommodation,11,11,86,1377
+Hockley,Food Services and Drinking Places,225,225,176196,20782513
+Hockley,Clothing and Clothing Accessories Stores,7,7,27,490
+Hockley,Accommodation,4,4,39,537
 Hood,Accommodation and Food Services,5825,5825,377809,594913220
+Hood,Accommodation,11,11,86,1377
+Hood,Total,1293,1374,13535,506601
 Hood,Clothing and Clothing Accessories Stores,9,9,55,1165
 Hood,Food Services and Drinking Places,4723,4723,291721,457212045
 Hood,Food and Beverage Stores,12,12,46,777
 Hood,Retail Trade,1146,1146,491256,1453610420
+Hopkins,Total,694,742,9941,369278
 Hopkins,Accommodation,10,10,52,691
 Hopkins,Accommodation and Food Services,3513,3513,285325,35865809
 Hopkins,Clothing and Clothing Accessories Stores,3,3,35,484
 Hopkins,Food Services and Drinking Places,2512,2512,233300,28955321
 Hopkins,Food and Beverage Stores,5,5,25,415
 Hopkins,Retail Trade,6711,6918,309285,731110421
-Houston,Accommodation,3,3,16,237
-Houston,Accommodation and Food Services,23,23,122,1454
-Houston,Food Services and Drinking Places,20,20,106,1217
+Houston,Total,323,334,3231,128651
 Houston,Food and Beverage Stores,6,6,22,417
 Houston,Retail Trade,40,40,201,5847
+Houston,Accommodation and Food Services,23,23,122,1454
+Houston,Accommodation,3,3,16,237
+Houston,Food Services and Drinking Places,20,20,106,1217
 Howard,Accommodation,145,145,93142,18752126
 Howard,Accommodation and Food Services,5318,5318,352523,64207804
 Howard,Clothing and Clothing Accessories Stores,10,10,35,608
 Howard,Food Services and Drinking Places,3913,3913,259381,45455678
 Howard,Food and Beverage Stores,7,7,35,860
 Howard,Retail Trade,5810,6014,300229,87669219
+Howard,Total,700,753,8959,438247
 Hudspeth,Accommodation and Food Services,6,6,28,358
 Hudspeth,Food Services and Drinking Places,4,4,24,317
 Hudspeth,Retail Trade,8,8,61,795
-Hunt,Accommodation,20,20,104,1973
+Hudspeth,Total,30,30,380,16124
+Hunt,Total,1369,1505,24971,1358126
+Hunt,Retail Trade,13120,13325,545574,1611620790
 Hunt,Accommodation and Food Services,9025,9028,544814,865711989
+Hunt,Accommodation,20,20,104,1973
+Hunt,Food and Beverage Stores,11,11,35,636
 Hunt,Clothing and Clothing Accessories Stores,5,5,16,423
 Hunt,Food Services and Drinking Places,7023,7026,440772,668411415
-Hunt,Food and Beverage Stores,11,11,35,636
-Hunt,Retail Trade,13120,13325,545574,1611620790
 Hutchinson,Accommodation,5,5,40,835
 Hutchinson,Accommodation and Food Services,299,2911,141290,23303119
 Hutchinson,Clothing and Clothing Accessories Stores,4,4,10,179
 Hutchinson,Food Services and Drinking Places,248,249,101260,14952674
 Hutchinson,Retail Trade,30,30,118,2946
+Hutchinson,Total,402,440,6137,375777
 Irion,Accommodation and Food Services,3,3,6,166
 Irion,Food Services and Drinking Places,3,3,6,166
 Irion,Retail Trade,3,3,9,258
-Jack,Accommodation,3,3,7,126
+Irion,Total,57,57,479,28395
 Jack,Accommodation and Food Services,11,11,60,813
-Jack,Food Services and Drinking Places,8,8,53,687
 Jack,Food and Beverage Stores,3,3,22,175
+Jack,Food Services and Drinking Places,8,8,53,687
+Jack,Total,214,216,1633,77799
 Jack,Retail Trade,17,17,109,2295
-Jackson,Accommodation,4,4,18,206
-Jackson,Accommodation and Food Services,163,163,74102,10341529
-Jackson,Clothing and Clothing Accessories Stores,3,3,5,83
+Jack,Accommodation,3,3,7,126
+Jackson,Total,319,339,4983,224898
 Jackson,Food Services and Drinking Places,123,123,56102,8281529
+Jackson,Clothing and Clothing Accessories Stores,3,3,5,83
+Jackson,Accommodation and Food Services,163,163,74102,10341529
+Jackson,Accommodation,4,4,18,206
 Jackson,Retail Trade,34,35,151,3297
 Jasper,Accommodation,8,8,45,727
 Jasper,Accommodation and Food Services,2511,2512,118366,17296289
 Jasper,Food Services and Drinking Places,1711,1712,73366,10026289
 Jasper,Food and Beverage Stores,11,13,49,831
 Jasper,Retail Trade,639,659,278152,79775671
-Jeff Davis,Accommodation,6,6,34,545
-Jeff Davis,Accommodation and Food Services,103,103,6265,8251237
-Jeff Davis,Food Services and Drinking Places,4,4,28,280
+Jasper,Total,560,620,8700,319506
+Jeff Davis,Total,60,61,395,11773
 Jeff Davis,Retail Trade,6,6,24,392
-Jefferson,Accommodation,626,626,392175,69243058
-Jefferson,Accommodation and Food Services,26284,262101,16023233,2592556204
-Jefferson,Clothing and Clothing Accessories Stores,473,514,21772,56501256
-Jefferson,Food Services and Drinking Places,20078,20095,12103058,1900153146
-Jefferson,Food and Beverage Stores,904,974,278112,65103161
-Jefferson,General Merchandise Stores,6,6,15,518
+Jeff Davis,Food Services and Drinking Places,4,4,28,280
+Jeff Davis,Accommodation and Food Services,103,103,6265,8251237
+Jeff Davis,Accommodation,6,6,34,545
+Jefferson,Total,4720,5701,102659,5270739
 Jefferson,Retail Trade,48329,50041,20241065,6574047043
-Jim Hogg,Accommodation,3,3,13,150
-Jim Hogg,Accommodation and Food Services,10,10,21,369
+Jefferson,Food and Beverage Stores,904,974,278112,65103161
+Jefferson,Food Services and Drinking Places,20078,20095,12103058,1900153146
+Jefferson,Clothing and Clothing Accessories Stores,473,514,21772,56501256
+Jefferson,Accommodation and Food Services,26284,262101,16023233,2592556204
+Jefferson,Accommodation,626,626,392175,69243058
+Jefferson,General Merchandise Stores,6,6,15,518
+Jim Hogg,Total,80,85,1739,41270
 Jim Hogg,Food Services and Drinking Places,7,7,8,219
 Jim Hogg,Food and Beverage Stores,3,3,45,530
+Jim Hogg,Accommodation and Food Services,10,10,21,369
+Jim Hogg,Accommodation,3,3,13,150
 Jim Hogg,Retail Trade,12,13,87,1404
 Jim Wells,Accommodation,12,12,84,1016
 Jim Wells,Accommodation and Food Services,4711,4712,318365,44205377
@@ -600,6 +724,8 @@ Jim Wells,Clothing and Clothing Accessories Stores,6,7,16,393
 Jim Wells,Food Services and Drinking Places,3510,3511,234347,34045122
 Jim Wells,Food and Beverage Stores,17,17,64,1013
 Jim Wells,Retail Trade,656,668,272186,69718193
+Jim Wells,Total,733,822,13829,520380
+Johnson,Total,2666,2919,38136,1596166
 Johnson,Accommodation,26,26,137,2483
 Johnson,Accommodation and Food Services,15744,15751,9471236,1514418785
 Johnson,Clothing and Clothing Accessories Stores,16,16,56,1239
@@ -609,166 +735,204 @@ Johnson,Retail Trade,23129,23141,935768,3020730820
 Jones,Accommodation and Food Services,14,14,100,1264
 Jones,Food Services and Drinking Places,13,13,99,1253
 Jones,Retail Trade,183,183,53106,18736065
-Karnes,Accommodation,13,13,97,2024
-Karnes,Accommodation and Food Services,308,308,194245,32403528
+Jones,Total,247,263,2436,102181
 Karnes,Food Services and Drinking Places,176,176,97197,12162816
-Karnes,Food and Beverage Stores,4,4,20,234
+Karnes,Accommodation,13,13,97,2024
 Karnes,Retail Trade,173,173,6224,13481406
+Karnes,Accommodation and Food Services,308,308,194245,32403528
+Karnes,Total,309,340,5476,357065
+Karnes,Food and Beverage Stores,4,4,20,234
+Kaufman,Total,1894,2055,27278,1061142
 Kaufman,Accommodation,174,174,13284,21961471
 Kaufman,Accommodation and Food Services,10847,10848,7001366,931320455
 Kaufman,Clothing and Clothing Accessories Stores,7,7,20,237
 Kaufman,Food Services and Drinking Places,9143,9144,5681282,711718984
 Kaufman,Food and Beverage Stores,33,33,102,2431
 Kaufman,Retail Trade,16922,17122,680477,2046615467
+Kendall,Clothing and Clothing Accessories Stores,14,14,46,1076
 Kendall,Accommodation,16,16,106,1930
 Kendall,Accommodation and Food Services,7220,7221,445630,822914073
-Kendall,Clothing and Clothing Accessories Stores,14,14,46,1076
-Kendall,Food Services and Drinking Places,5618,5619,339534,629910080
 Kendall,Food and Beverage Stores,10,11,52,931
 Kendall,General Merchandise Stores,3,3,7,130
 Kendall,Retail Trade,10814,11015,453456,1690222178
+Kendall,Total,1367,1411,14169,617715
+Kendall,Food Services and Drinking Places,5618,5619,339534,629910080
+Kenedy,Total,12,17,146,10591
 Kent,Retail Trade,4,4,17,352
-Kerr,Accommodation,29,29,220,7662
-Kerr,Accommodation and Food Services,8625,8630,592965,1449018134
-Kerr,Clothing and Clothing Accessories Stores,9,9,17,473
-Kerr,Food Services and Drinking Places,5723,5728,372919,682815980
-Kerr,Food and Beverage Stores,9,9,41,741
+Kent,Total,13,13,78,6171
 Kerr,Retail Trade,10816,10922,491439,1614518382
-Kimble,Accommodation,7,7,30,391
-Kimble,Accommodation and Food Services,183,184,10186,13861649
-Kimble,Food Services and Drinking Places,11,11,71,995
+Kerr,Food and Beverage Stores,9,9,41,741
+Kerr,Accommodation and Food Services,8625,8630,592965,1449018134
+Kerr,Total,1360,1466,16761,650963
+Kerr,Accommodation,29,29,220,7662
+Kerr,Food Services and Drinking Places,5723,5728,372919,682815980
+Kerr,Clothing and Clothing Accessories Stores,9,9,17,473
 Kimble,Retail Trade,25,25,142,3906
+Kimble,Food Services and Drinking Places,11,11,71,995
+Kimble,Accommodation and Food Services,183,184,10186,13861649
+Kimble,Accommodation,7,7,30,391
+Kimble,Total,131,133,907,28075
 Kinney,Accommodation and Food Services,5,5,14,183
-Kinney,Food Services and Drinking Places,5,5,14,183
+Kinney,Total,37,38,568,26579
 Kinney,Retail Trade,5,5,23,216
-Kleberg,Accommodation,11,11,96,1227
-Kleberg,Accommodation and Food Services,4512,4615,335504,44348302
-Kleberg,Clothing and Clothing Accessories Stores,4,4,15,180
-Kleberg,Food Services and Drinking Places,3411,3514,239481,32077990
-Kleberg,Food and Beverage Stores,7,7,35,371
+Kinney,Food Services and Drinking Places,5,5,14,183
+Kleberg,Total,509,550,6857,227584
 Kleberg,Retail Trade,446,446,167226,272610130
+Kleberg,Food and Beverage Stores,7,7,35,371
+Kleberg,Food Services and Drinking Places,3411,3514,239481,32077990
+Kleberg,Clothing and Clothing Accessories Stores,4,4,15,180
+Kleberg,Accommodation and Food Services,4512,4615,335504,44348302
+Kleberg,Accommodation,11,11,96,1227
+Knox,Total,83,88,664,30165
 Knox,Accommodation and Food Services,4,4,22,448
 Knox,Food Services and Drinking Places,3,3,21,433
 Knox,Retail Trade,10,10,37,978
+La Salle,Food Services and Drinking Places,6,6,48,681
+La Salle,Total,133,148,1812,84017
 La Salle,Accommodation,17,17,102,2023
 La Salle,Accommodation and Food Services,234,234,150124,27041896
-La Salle,Food Services and Drinking Places,6,6,48,681
 La Salle,Retail Trade,9,9,55,1141
-Lamar,Accommodation,13,13,54,1156
 Lamar,Accommodation and Food Services,6918,6923,432548,72658422
 Lamar,Clothing and Clothing Accessories Stores,10,10,46,1023
 Lamar,Food Services and Drinking Places,5618,5623,378548,61098422
-Lamar,Food and Beverage Stores,12,13,61,1213
 Lamar,Retail Trade,11616,12016,548391,1539018030
+Lamar,Accommodation,13,13,54,1156
+Lamar,Food and Beverage Stores,12,13,61,1213
+Lamar,Total,1141,1225,18123,701554
+Lamb,Total,207,231,2045,80926
 Lamb,Accommodation and Food Services,12,12,64,894
 Lamb,Food Services and Drinking Places,10,10,47,708
 Lamb,Food and Beverage Stores,3,3,10,81
 Lamb,Retail Trade,14,14,70,2454
-Lampasas,Accommodation,5,5,38,413
 Lampasas,Accommodation and Food Services,277,277,169174,26612766
+Lampasas,Total,401,411,4289,141089
+Lampasas,Accommodation,5,5,38,413
 Lampasas,Food Services and Drinking Places,227,227,131174,22482766
 Lampasas,Food and Beverage Stores,6,6,22,568
 Lampasas,Retail Trade,305,305,118139,33765377
-Lavaca,Accommodation,11,11,45,393
-Lavaca,Accommodation and Food Services,248,248,111241,11974214
-Lavaca,Clothing and Clothing Accessories Stores,5,5,25,471
-Lavaca,Food Services and Drinking Places,137,137,66222,8044095
-Lavaca,Food and Beverage Stores,4,4,11,112
 Lavaca,Retail Trade,587,598,267134,84222803
-Lee,Accommodation,8,8,34,444
-Lee,Accommodation and Food Services,303,313,11658,18851197
-Lee,Clothing and Clothing Accessories Stores,3,3,11,102
-Lee,Food Services and Drinking Places,223,233,8258,14411197
+Lavaca,Food and Beverage Stores,4,4,11,112
+Lavaca,Food Services and Drinking Places,137,137,66222,8044095
+Lavaca,Clothing and Clothing Accessories Stores,5,5,25,471
+Lavaca,Accommodation and Food Services,248,248,111241,11974214
+Lavaca,Accommodation,11,11,45,393
+Lavaca,Total,445,476,5519,215190
 Lee,Food and Beverage Stores,10,10,57,1380
 Lee,Retail Trade,453,453,24994,66193027
+Lee,Food Services and Drinking Places,223,233,8258,14411197
+Lee,Total,407,420,6023,301393
+Lee,Accommodation and Food Services,303,313,11658,18851197
+Lee,Accommodation,8,8,34,444
+Lee,Clothing and Clothing Accessories Stores,3,3,11,102
+Leon,Total,330,346,4217,245221
+Leon,Retail Trade,395,395,207143,49612574
 Leon,Accommodation,9,9,72,885
 Leon,Accommodation and Food Services,366,367,178144,25041870
 Leon,Food Services and Drinking Places,275,276,106118,16191560
 Leon,Food and Beverage Stores,3,3,11,327
-Leon,Retail Trade,395,395,207143,49612574
-Liberty,Accommodation,15,15,99,1757
-Liberty,Accommodation and Food Services,5812,5812,315384,47657943
-Liberty,Clothing and Clothing Accessories Stores,8,8,19,476
 Liberty,Food Services and Drinking Places,4311,4311,216345,30087141
-Liberty,Food and Beverage Stores,22,22,104,2143
+Liberty,Accommodation and Food Services,5812,5812,315384,47657943
+Liberty,Total,995,1102,13458,593476
 Liberty,Retail Trade,12313,12616,562450,1312320010
+Liberty,Accommodation,15,15,99,1757
+Liberty,Clothing and Clothing Accessories Stores,8,8,19,476
+Liberty,Food and Beverage Stores,22,22,104,2143
 Limestone,Accommodation,4,4,32,386
 Limestone,Accommodation and Food Services,263,264,173108,21191258
 Limestone,Clothing and Clothing Accessories Stores,3,3,9,146
 Limestone,Food Services and Drinking Places,223,224,141108,17331258
-Limestone,Food and Beverage Stores,9,9,23,379
 Limestone,General Merchandise Stores,4,4,19,559
 Limestone,Retail Trade,58,58,227,5960
+Limestone,Total,351,388,4907,203295
+Limestone,Food and Beverage Stores,9,9,23,379
 Lipscomb,Retail Trade,5,5,37,866
-Live Oak,Accommodation,8,8,51,861
+Lipscomb,Total,73,77,880,55291
+Live Oak,Total,262,285,3283,204931
 Live Oak,Accommodation and Food Services,236,236,168102,27811932
+Live Oak,Accommodation,8,8,51,861
 Live Oak,Food Services and Drinking Places,155,155,11797,19201838
 Live Oak,Food and Beverage Stores,3,3,11,104
 Live Oak,Retail Trade,23,24,124,5008
-Llano,Accommodation,7,7,11,245
-Llano,Accommodation and Food Services,355,355,155158,32293010
 Llano,Clothing and Clothing Accessories Stores,3,3,15,836
 Llano,Food Services and Drinking Places,285,285,144158,29843010
 Llano,Food and Beverage Stores,5,5,19,324
 Llano,Retail Trade,417,438,212138,64713704
+Llano,Accommodation,7,7,11,245
+Llano,Total,443,473,3722,120736
+Llano,Accommodation and Food Services,355,355,155158,32293010
+Loving,Total,3,5,21,1919
+Lubbock,Total,6236,7319,115667,4468620
 Lubbock,Accommodation,5615,5615,381509,66778123
-Lubbock,Accommodation and Food Services,328148,328166,22235172,3672880827
-Lubbock,Clothing and Clothing Accessories Stores,526,528,311182,64644252
-Lubbock,Food Services and Drinking Places,272133,272151,18424663,3005172704
-Lubbock,Food and Beverage Stores,463,494,26474,3758937
 Lubbock,Retail Trade,43460,44282,21391742,6403865925
-Lynn,Accommodation and Food Services,4,4,14,41
+Lubbock,Food and Beverage Stores,463,494,26474,3758937
+Lubbock,Food Services and Drinking Places,272133,272151,18424663,3005172704
+Lubbock,Clothing and Clothing Accessories Stores,526,528,311182,64644252
+Lubbock,Accommodation and Food Services,328148,328166,22235172,3672880827
+Lynn,Total,80,85,735,29489
 Lynn,Food Services and Drinking Places,4,4,14,41
-Madison,Accommodation,6,6,45,588
-Madison,Accommodation and Food Services,326,326,301155,33352157
+Lynn,Accommodation and Food Services,4,4,14,41
 Madison,Food Services and Drinking Places,266,266,256155,27472157
 Madison,Retail Trade,204,204,71139,20416857
-Marion,Accommodation,6,6,42,641
-Marion,Accommodation and Food Services,156,156,94220,12233215
-Marion,Food Services and Drinking Places,96,96,52220,5823215
+Madison,Total,250,256,2760,90665
+Madison,Accommodation,6,6,45,588
+Madison,Accommodation and Food Services,326,326,301155,33352157
+Marion,Total,152,154,1722,57076
 Marion,Food and Beverage Stores,4,4,13,160
+Marion,Food Services and Drinking Places,96,96,52220,5823215
+Marion,Accommodation,6,6,42,641
 Marion,Retail Trade,20,20,91,1608
+Marion,Accommodation and Food Services,156,156,94220,12233215
+Martin,Total,112,115,1288,69606
 Martin,Accommodation,3,3,42,811
 Martin,Accommodation and Food Services,6,6,78,1287
 Martin,Food Services and Drinking Places,3,3,36,476
 Martin,Retail Trade,9,9,74,5230
-Mason,Accommodation and Food Services,14,14,58,653
 Mason,Food Services and Drinking Places,12,12,53,595
 Mason,Retail Trade,20,20,81,1990
+Mason,Total,141,143,830,24931
+Mason,Accommodation and Food Services,14,14,58,653
 Matagorda,Accommodation,24,24,124,1702
 Matagorda,Accommodation and Food Services,7011,7011,388301,54666855
 Matagorda,Clothing and Clothing Accessories Stores,7,7,34,828
 Matagorda,Food Services and Drinking Places,469,469,264252,37645987
-Matagorda,Food and Beverage Stores,21,21,99,1552
 Matagorda,Retail Trade,857,8512,384108,99843631
-Maverick,Accommodation,12,13,103,1528
-Maverick,Accommodation and Food Services,4311,4411,258391,35135128
-Maverick,Clothing and Clothing Accessories Stores,15,15,76,1503
+Matagorda,Food and Beverage Stores,21,21,99,1552
+Matagorda,Total,688,735,8186,478415
+Maverick,Total,742,818,12503,336690
 Maverick,Food Services and Drinking Places,3110,3110,155370,19854825
+Maverick,Accommodation,12,13,103,1528
 Maverick,Food and Beverage Stores,9,9,50,1372
 Maverick,General Merchandise Stores,4,4,20,293
 Maverick,Retail Trade,817,817,340131,87853823
+Maverick,Accommodation and Food Services,4311,4411,258391,35135128
+Maverick,Clothing and Clothing Accessories Stores,15,15,76,1503
+McCulloch,Total,209,216,2400,103256
 McCulloch,Accommodation,4,4,17,322
 McCulloch,Accommodation and Food Services,173,173,97121,13151564
 McCulloch,Food Services and Drinking Places,13,13,80,993
 McCulloch,Retail Trade,213,214,12451,31722207
 McLennan,Accommodation,3811,3811,220360,40666278
-McLennan,Accommodation and Food Services,24788,24799,15673081,2613246677
-McLennan,Clothing and Clothing Accessories Stores,42,43,236,4168
-McLennan,Food Services and Drinking Places,20977,20988,13472721,2206640399
 McLennan,Food and Beverage Stores,593,603,23477,4657840
+McLennan,Total,4501,5310,105717,4231813
+McLennan,Food Services and Drinking Places,20977,20988,13472721,2206640399
 McLennan,General Merchandise Stores,3,3,18,271
 McLennan,Retail Trade,42256,42862,19311804,4955774859
+McLennan,Accommodation and Food Services,24788,24799,15673081,2613246677
+McLennan,Clothing and Clothing Accessories Stores,42,43,236,4168
+McMullen,Total,39,46,470,50537
 McMullen,Accommodation and Food Services,4,4,16,549
+Medina,Food Services and Drinking Places,4215,4215,228513,25577237
 Medina,Accommodation,11,11,41,674
 Medina,Accommodation and Food Services,5317,5317,269554,32317907
-Medina,Clothing and Clothing Accessories Stores,3,3,7,65
-Medina,Food Services and Drinking Places,4215,4215,228513,25577237
-Medina,Food and Beverage Stores,11,11,55,920
 Medina,Retail Trade,5511,5516,217368,492521199
+Medina,Food and Beverage Stores,11,11,55,920
+Medina,Clothing and Clothing Accessories Stores,3,3,7,65
+Medina,Total,705,764,7683,264568
+Menard,Total,44,44,204,6040
 Menard,Accommodation and Food Services,4,4,25,329
 Menard,Food Services and Drinking Places,3,3,23,310
 Menard,Retail Trade,4,4,13,189
+Midland,Total,4874,5567,96217,7225543
 Midland,Accommodation,2517,2717,150558,468511661
 Midland,Accommodation and Food Services,17088,172101,10342973,2492167114
 Midland,Clothing and Clothing Accessories Stores,313,313,15849,34872437
@@ -780,65 +944,78 @@ Milam,Accommodation and Food Services,296,298,199151,24661414
 Milam,Food Services and Drinking Places,206,208,148151,19201414
 Milam,Food and Beverage Stores,6,6,19,236
 Milam,Retail Trade,36,36,153,4360
+Milam,Total,384,417,4463,183672
 Mills,Accommodation and Food Services,5,5,26,457
 Mills,Food Services and Drinking Places,5,5,26,457
 Mills,Retail Trade,16,16,124,4258
+Mills,Total,112,113,867,25703
+Mitchell,Retail Trade,20,21,87,2161
 Mitchell,Accommodation,4,4,30,545
 Mitchell,Accommodation and Food Services,13,13,114,1513
 Mitchell,Clothing and Clothing Accessories Stores,3,3,16,497
 Mitchell,Food Services and Drinking Places,9,9,84,968
-Mitchell,Retail Trade,20,21,87,2161
+Mitchell,Total,135,138,1206,52610
 Montague,Accommodation,4,4,21,316
 Montague,Accommodation and Food Services,215,215,103150,15981805
 Montague,Clothing and Clothing Accessories Stores,5,5,11,179
 Montague,Food Services and Drinking Places,175,175,82150,12821805
 Montague,Food and Beverage Stores,4,4,10,99
+Montague,Total,419,437,3575,173928
 Montague,Retail Trade,544,545,193172,40495254
+Montgomery,Total,10252,11970,167929,9507066
 Montgomery,Accommodation,378,388,313250,55734996
+Montgomery,General Merchandise Stores,5,5,34,766
+Montgomery,Food and Beverage Stores,1096,11112,400135,80773187
 Montgomery,Accommodation and Food Services,454171,455180,29726081,55361111455
 Montgomery,Clothing and Clothing Accessories Stores,456,456,19538,4566716
-Montgomery,Food Services and Drinking Places,417163,417172,26595831,49788106459
-Montgomery,Food and Beverage Stores,1096,11112,400135,80773187
-Montgomery,General Merchandise Stores,5,5,34,766
 Montgomery,Retail Trade,71866,73377,30151338,8717653348
+Montgomery,Food Services and Drinking Places,417163,417172,26595831,49788106459
 Moore,Accommodation,9,9,40,483
 Moore,Accommodation and Food Services,297,298,140242,19834347
 Moore,Clothing and Clothing Accessories Stores,3,3,8,68
 Moore,Food Services and Drinking Places,205,206,100192,15003683
 Moore,Food and Beverage Stores,7,7,16,312
 Moore,Retail Trade,287,287,119101,36333971
+Moore,Total,427,452,8015,366858
+Morris,Total,199,216,2961,146818
 Morris,Accommodation and Food Services,12,12,93,1391
 Morris,Food Services and Drinking Places,12,12,93,1391
 Morris,Food and Beverage Stores,10,10,43,846
 Morris,Retail Trade,234,234,10446,17821273
-Nacogdoches,Accommodation,16,16,93,1515
+Motley,Total,24,24,164,4628
 Nacogdoches,Accommodation and Food Services,6022,6024,398646,55598757
 Nacogdoches,Clothing and Clothing Accessories Stores,10,10,31,817
 Nacogdoches,Food Services and Drinking Places,4420,4422,305602,40448117
 Nacogdoches,Food and Beverage Stores,183,183,8979,14611302
 Nacogdoches,Retail Trade,11515,11618,529442,1286018874
-Navarro,Accommodation,10,10,84,1204
-Navarro,Accommodation and Food Services,3315,3315,210441,32405770
-Navarro,Clothing and Clothing Accessories Stores,4,4,14,180
-Navarro,Food Services and Drinking Places,2313,2313,126383,20365146
+Nacogdoches,Accommodation,16,16,93,1515
+Nacogdoches,Total,1166,1274,18415,637205
+Navarro,Total,851,943,13689,484436
 Navarro,Food and Beverage Stores,12,12,50,836
 Navarro,Retail Trade,8713,8717,355332,801112974
-Newton,Accommodation and Food Services,4,4,15,71
-Newton,Food Services and Drinking Places,4,4,15,71
+Navarro,Clothing and Clothing Accessories Stores,4,4,14,180
+Navarro,Accommodation,10,10,84,1204
+Navarro,Accommodation and Food Services,3315,3315,210441,32405770
+Navarro,Food Services and Drinking Places,2313,2313,126383,20365146
+Newton,Total,122,125,852,25692
 Newton,Food and Beverage Stores,6,6,19,356
 Newton,Retail Trade,21,21,95,1489
-Nolan,Accommodation,63,63,4485,8881093
+Newton,Food Services and Drinking Places,4,4,15,71
+Newton,Accommodation and Food Services,4,4,15,71
 Nolan,Accommodation and Food Services,216,217,112178,20482303
 Nolan,Clothing and Clothing Accessories Stores,3,3,13,206
-Nolan,Food Services and Drinking Places,153,154,6893,11601210
 Nolan,Food and Beverage Stores,7,7,18,277
 Nolan,Retail Trade,27,27,87,1960
+Nolan,Total,327,345,5175,229522
+Nolan,Accommodation,63,63,4485,8881093
+Nolan,Food Services and Drinking Places,153,154,6893,11601210
+Nueces,Total,6607,8128,140495,6097933
+Nueces,General Merchandise Stores,5,5,18,180
 Nueces,Accommodation,7123,7424,482799,972713185
 Nueces,Accommodation and Food Services,494153,498173,34625632,6383899050
 Nueces,Clothing and Clothing Accessories Stores,494,524,18583,36561006
 Nueces,Food Services and Drinking Places,423130,424149,29804833,5411185865
 Nueces,Food and Beverage Stores,616,6313,278145,52583846
-Nueces,General Merchandise Stores,5,5,18,180
 Nueces,Retail Trade,47253,48565,21861397,6444045669
 Ochiltree,Accommodation,4,4,49,821
 Ochiltree,Accommodation and Food Services,114,124,106110,14251990
@@ -846,212 +1023,262 @@ Ochiltree,Clothing and Clothing Accessories Stores,4,4,14,161
 Ochiltree,Food Services and Drinking Places,74,84,57110,6041990
 Ochiltree,Food and Beverage Stores,3,3,16,278
 Ochiltree,Retail Trade,243,244,12138,45291368
-Oldham,Accommodation,3,3,9,110
-Oldham,Accommodation and Food Services,9,9,33,431
-Oldham,Food Services and Drinking Places,6,6,24,321
-Oldham,Food and Beverage Stores,3,3,12,159
+Ochiltree,Total,319,341,3611,195842
+Oldham,Total,49,50,576,20717
 Oldham,Retail Trade,7,7,30,698
-Orange,Accommodation,19,19,148,2701
+Oldham,Food and Beverage Stores,3,3,12,159
+Oldham,Food Services and Drinking Places,6,6,24,321
+Oldham,Accommodation and Food Services,9,9,33,431
+Oldham,Accommodation,3,3,9,110
 Orange,Accommodation and Food Services,8916,8917,537544,84408563
-Orange,Clothing and Clothing Accessories Stores,9,9,36,731
-Orange,Food Services and Drinking Places,7015,7016,389518,57398370
 Orange,Food and Beverage Stores,33,33,108,2042
 Orange,Retail Trade,15214,15417,546428,1369915211
+Orange,Total,1176,1309,18685,956479
+Orange,Accommodation,19,19,148,2701
+Orange,Clothing and Clothing Accessories Stores,9,9,36,731
+Orange,Food Services and Drinking Places,7015,7016,389518,57398370
 Palo Pinto,Accommodation,11,11,35,720
-Palo Pinto,Accommodation and Food Services,509,509,241234,44094033
-Palo Pinto,Food Services and Drinking Places,398,398,206233,36893983
-Palo Pinto,Food and Beverage Stores,7,7,44,918
 Palo Pinto,Retail Trade,515,527,243103,61152997
-Panola,Accommodation,7,7,62,770
-Panola,Accommodation and Food Services,194,194,107174,13292949
-Panola,Clothing and Clothing Accessories Stores,3,3,10,104
-Panola,Food Services and Drinking Places,124,124,45174,5592949
-Panola,Food and Beverage Stores,5,5,36,651
+Palo Pinto,Food and Beverage Stores,7,7,44,918
+Palo Pinto,Food Services and Drinking Places,398,398,206233,36893983
+Palo Pinto,Accommodation and Food Services,509,509,241234,44094033
+Palo Pinto,Total,581,606,5978,231126
 Panola,Retail Trade,385,415,197112,43834408
-Parker,Accommodation,24,24,165,3135
+Panola,Food and Beverage Stores,5,5,36,651
+Panola,Food Services and Drinking Places,124,124,45174,5592949
+Panola,Clothing and Clothing Accessories Stores,3,3,10,104
+Panola,Accommodation and Food Services,194,194,107174,13292949
+Panola,Total,456,480,6456,287173
+Panola,Accommodation,7,7,62,770
+Parker,Total,2743,2898,29715,1324011
 Parker,Accommodation and Food Services,12039,12541,8971253,1587020212
 Parker,Clothing and Clothing Accessories Stores,16,16,60,905
 Parker,Food Services and Drinking Places,9639,10141,7321253,1273520212
 Parker,Food and Beverage Stores,19,19,56,1194
 Parker,Retail Trade,21519,21724,995631,2912219897
+Parker,Accommodation,24,24,165,3135
+Parmer,Total,189,203,3585,155774
 Parmer,Accommodation and Food Services,8,8,35,307
 Parmer,Food Services and Drinking Places,7,7,26,278
 Parmer,Retail Trade,11,11,53,1380
-Pecos,Accommodation,116,116,84139,12062601
-Pecos,Accommodation and Food Services,3311,3311,206326,27956113
-Pecos,Food Services and Drinking Places,225,225,122187,15893512
 Pecos,Food and Beverage Stores,5,5,29,447
+Pecos,Food Services and Drinking Places,225,225,122187,15893512
+Pecos,Accommodation,116,116,84139,12062601
 Pecos,Retail Trade,29,29,198,6537
-Polk,Accommodation,11,11,51,835
-Polk,Accommodation and Food Services,4211,4211,263339,41515434
-Polk,Clothing and Clothing Accessories Stores,3,3,4,45
-Polk,Food Services and Drinking Places,3110,3110,212309,33165251
-Polk,Food and Beverage Stores,7,7,30,549
+Pecos,Accommodation and Food Services,3311,3311,206326,27956113
+Pecos,Total,311,343,4046,179133
+Polk,Total,720,766,8505,318663
 Polk,Retail Trade,854,874,387103,115494667
-Potter,Accommodation,3317,3318,280556,51479766
-Potter,Accommodation and Food Services,17884,17891,12242788,2387043840
-Potter,Clothing and Clothing Accessories Stores,32,32,199,4980
-Potter,Food Services and Drinking Places,14567,14573,9442232,1872334074
-Potter,Food and Beverage Stores,274,284,11962,26221230
-Potter,General Merchandise Stores,3,3,10,234
+Polk,Food and Beverage Stores,7,7,30,549
+Polk,Food Services and Drinking Places,3110,3110,212309,33165251
+Polk,Clothing and Clothing Accessories Stores,3,3,4,45
+Polk,Accommodation and Food Services,4211,4211,263339,41515434
+Polk,Accommodation,11,11,51,835
 Potter,Retail Trade,23222,23323,1169493,3676516476
-Presidio,Accommodation,63,63,38131,3982814
+Potter,Total,3059,3500,61160,2600177
+Potter,Food and Beverage Stores,274,284,11962,26221230
+Potter,Food Services and Drinking Places,14567,14573,9442232,1872334074
+Potter,Clothing and Clothing Accessories Stores,32,32,199,4980
+Potter,Accommodation and Food Services,17884,17891,12242788,2387043840
+Potter,Accommodation,3317,3318,280556,51479766
+Potter,General Merchandise Stores,3,3,10,234
 Presidio,Accommodation and Food Services,214,214,133161,22043126
 Presidio,Food Services and Drinking Places,15,15,95,1806
+Presidio,Total,118,125,1023,23725
+Presidio,Accommodation,63,63,38131,3982814
 Presidio,Retail Trade,16,16,63,1260
 Rains,Accommodation and Food Services,11,11,86,1338
 Rains,Food Services and Drinking Places,9,9,74,1170
 Rains,Retail Trade,18,18,96,2797
+Rains,Total,178,183,1423,45195
 Randall,Accommodation,54,54,39107,7571236
 Randall,Accommodation and Food Services,10354,10357,6601810,1305228069
-Randall,Clothing and Clothing Accessories Stores,23,23,97,1953
 Randall,Food Services and Drinking Places,9850,9853,6211703,1229526833
 Randall,Food and Beverage Stores,104,106,54117,7302261
 Randall,Retail Trade,17725,17828,811664,2509425181
-Reagan,Accommodation,6,6,38,840
-Reagan,Accommodation and Food Services,9,9,78,1386
-Reagan,Food Services and Drinking Places,3,3,40,546
+Randall,Clothing and Clothing Accessories Stores,23,23,97,1953
+Randall,Total,2392,2644,32374,1402311
 Reagan,Retail Trade,6,6,38,1552
-Real,Accommodation,7,7,25,673
-Real,Accommodation and Food Services,14,14,56,1155
-Real,Food Services and Drinking Places,7,7,31,482
-Real,Food and Beverage Stores,4,4,23,292
+Reagan,Food Services and Drinking Places,3,3,40,546
+Reagan,Accommodation and Food Services,9,9,78,1386
+Reagan,Accommodation,6,6,38,840
+Reagan,Total,127,131,2014,123437
 Real,Retail Trade,13,13,48,868
-Red River,Accommodation and Food Services,10,10,39,478
+Real,Food and Beverage Stores,4,4,23,292
+Real,Food Services and Drinking Places,7,7,31,482
+Real,Accommodation and Food Services,14,14,56,1155
+Real,Accommodation,7,7,25,673
+Real,Total,80,82,573,15090
 Red River,Food Services and Drinking Places,9,9,37,447
-Red River,Food and Beverage Stores,4,4,11,143
+Red River,Total,160,168,1260,45779
 Red River,Retail Trade,23,23,113,2195
+Red River,Accommodation and Food Services,10,10,39,478
+Red River,Food and Beverage Stores,4,4,11,143
 Reeves,Accommodation,115,115,81165,17694239
+Reeves,Total,309,340,5409,327416
 Reeves,Accommodation and Food Services,289,289,190340,40898084
 Reeves,Clothing and Clothing Accessories Stores,5,5,8,220
 Reeves,Food Services and Drinking Places,174,174,109175,23203845
 Reeves,Food and Beverage Stores,5,5,22,618
 Reeves,Retail Trade,16,16,72,2319
 Refugio,Accommodation and Food Services,9,9,61,912
-Refugio,Food Services and Drinking Places,8,8,47,830
 Refugio,Food and Beverage Stores,4,4,31,856
+Refugio,Total,133,138,1689,75818
 Refugio,Retail Trade,73,73,5956,14781320
-Robertson,Accommodation and Food Services,116,118,65205,11783415
-Robertson,Food Services and Drinking Places,95,97,51172,8952737
+Refugio,Food Services and Drinking Places,8,8,47,830
+Roberts,Total,20,20,178,11581
 Robertson,Food and Beverage Stores,6,6,36,492
+Robertson,Food Services and Drinking Places,95,97,51172,8952737
+Robertson,Accommodation and Food Services,116,118,65205,11783415
 Robertson,Retail Trade,355,355,173119,36543288
-Rockwall,Accommodation,93,93,7785,14641253
-Rockwall,Accommodation and Food Services,10153,10160,5731913,1145032036
-Rockwall,Clothing and Clothing Accessories Stores,12,12,54,1723
-Rockwall,Food Services and Drinking Places,9250,9257,4961828,998630783
-Rockwall,Food and Beverage Stores,13,13,67,1505
+Robertson,Total,240,267,2895,120063
+Rockwall,Total,2207,2359,27531,1080854
 Rockwall,Retail Trade,14319,14319,628592,1843027048
-Runnels,Accommodation,3,3,9,128
-Runnels,Accommodation and Food Services,15,15,76,1069
-Runnels,Food Services and Drinking Places,12,12,67,941
-Runnels,Food and Beverage Stores,4,4,21,239
+Rockwall,Food and Beverage Stores,13,13,67,1505
+Rockwall,Food Services and Drinking Places,9250,9257,4961828,998630783
+Rockwall,Accommodation and Food Services,10153,10160,5731913,1145032036
+Rockwall,Accommodation,93,93,7785,14641253
+Rockwall,Clothing and Clothing Accessories Stores,12,12,54,1723
+Runnels,Total,211,219,2148,78617
 Runnels,Retail Trade,184,194,10997,28521625
+Runnels,Food and Beverage Stores,4,4,21,239
+Runnels,Food Services and Drinking Places,12,12,67,941
+Runnels,Accommodation and Food Services,15,15,76,1069
+Runnels,Accommodation,3,3,9,128
+Rusk,Total,747,800,9901,449533
+Rusk,Food Services and Drinking Places,3316,3317,165460,25475784
 Rusk,Accommodation,6,6,20,326
 Rusk,Accommodation and Food Services,3917,3919,185500,28736346
 Rusk,Clothing and Clothing Accessories Stores,3,3,5,87
-Rusk,Food Services and Drinking Places,3316,3317,165460,25475784
 Rusk,Food and Beverage Stores,5,5,11,226
 Rusk,Retail Trade,5110,5114,171195,44106889
-Sabine,Accommodation,3,3,23,450
-Sabine,Accommodation and Food Services,8,8,58,924
-Sabine,Food Services and Drinking Places,5,5,35,474
-Sabine,Food and Beverage Stores,8,8,15,289
 Sabine,Retail Trade,23,23,87,2028
+Sabine,Food and Beverage Stores,8,8,15,289
+Sabine,Food Services and Drinking Places,5,5,35,474
+Sabine,Accommodation,3,3,23,450
+Sabine,Total,161,171,1587,55987
+Sabine,Accommodation and Food Services,8,8,58,924
+San Augustine,Total,126,129,1285,45081
 San Augustine,Accommodation and Food Services,7,7,35,534
 San Augustine,Food Services and Drinking Places,5,5,18,274
 San Augustine,Food and Beverage Stores,3,3,15,211
 San Augustine,Retail Trade,19,19,99,2892
-San Jacinto,Accommodation and Food Services,113,113,6867,1018803
-San Jacinto,Food Services and Drinking Places,93,93,6467,916803
-San Jacinto,Food and Beverage Stores,6,6,19,375
 San Jacinto,Retail Trade,23,23,86,1961
+San Jacinto,Total,198,203,994,32715
+San Jacinto,Food Services and Drinking Places,93,93,6467,916803
+San Jacinto,Accommodation and Food Services,113,113,6867,1018803
+San Jacinto,Food and Beverage Stores,6,6,19,375
 San Patricio,Accommodation,294,294,21475,2917937
 San Patricio,Accommodation and Food Services,8525,8527,512701,755411070
 San Patricio,Clothing and Clothing Accessories Stores,4,4,7,235
 San Patricio,Food Services and Drinking Places,5621,5623,298626,463710133
 San Patricio,Food and Beverage Stores,9,9,22,340
 San Patricio,Retail Trade,699,6910,229266,580311978
+San Patricio,Total,902,1055,15976,795079
 San Saba,Accommodation,7,7,17,214
 San Saba,Accommodation and Food Services,16,16,71,892
 San Saba,Food Services and Drinking Places,9,9,54,678
 San Saba,Food and Beverage Stores,6,6,24,337
 San Saba,Retail Trade,23,23,109,2471
+San Saba,Total,141,146,827,24434
+Schleicher,Total,52,52,545,25943
 Schleicher,Retail Trade,4,4,8,86
+Scurry,Total,380,415,4929,255599
+Scurry,Food Services and Drinking Places,187,187,106199,10492792
 Scurry,Accommodation,9,9,82,1289
 Scurry,Accommodation and Food Services,278,278,188227,23383076
-Scurry,Food Services and Drinking Places,187,187,106199,10492792
 Scurry,Food and Beverage Stores,4,4,7,68
 Scurry,Retail Trade,246,246,77116,22375730
+Shackelford,Total,128,130,1196,82231
+Shackelford,Retail Trade,12,12,66,1599
 Shackelford,Accommodation and Food Services,5,5,36,278
 Shackelford,Food Services and Drinking Places,4,4,33,261
-Shackelford,Retail Trade,12,12,66,1599
+Shelby,Total,466,501,6560,242042
 Shelby,Accommodation,8,9,67,1458
+Shelby,Retail Trade,438,438,180160,50734664
 Shelby,Accommodation and Food Services,216,226,174165,29492799
 Shelby,Food Services and Drinking Places,136,136,107165,14912799
 Shelby,Food and Beverage Stores,9,9,32,470
-Shelby,Retail Trade,438,438,180160,50734664
 Sherman,Retail Trade,5,5,21,706
-Smith,Accommodation,467,467,248221,48393366
-Smith,Accommodation and Food Services,22486,22697,14403152,2390648273
+Sherman,Total,61,63,345,14342
 Smith,Clothing and Clothing Accessories Stores,41,41,216,6018
 Smith,Food Services and Drinking Places,17879,18090,11922931,1906744907
 Smith,Food and Beverage Stores,473,475,16254,28621137
 Smith,General Merchandise Stores,3,3,9,182
+Smith,Accommodation,467,467,248221,48393366
 Smith,Retail Trade,44951,45259,20811457,6788364446
+Smith,Accommodation and Food Services,22486,22697,14403152,2390648273
+Smith,Total,5132,5920,93327,3908883
+Somervell,Total,195,205,3304,197000
 Somervell,Accommodation,9,9,72,770
-Somervell,Accommodation and Food Services,246,246,172120,20452262
-Somervell,Food Services and Drinking Places,154,154,10070,12751300
 Somervell,Retail Trade,16,16,66,1445
-Starr,Accommodation and Food Services,33,33,174,2016
-Starr,Food Services and Drinking Places,31,31,167,1954
-Starr,Food and Beverage Stores,19,19,99,1434
+Somervell,Food Services and Drinking Places,154,154,10070,12751300
+Somervell,Accommodation and Food Services,246,246,172120,20452262
 Starr,Retail Trade,617,617,284235,65657019
+Starr,Food and Beverage Stores,19,19,99,1434
+Starr,Food Services and Drinking Places,31,31,167,1954
+Starr,Total,507,579,9291,188570
+Starr,Accommodation and Food Services,33,33,174,2016
+Statewide Texas,Total,650,1269,423181,24737749
+Stephens,Total,246,248,2060,85443
 Stephens,Accommodation and Food Services,175,175,53127,7091661
 Stephens,Food Services and Drinking Places,155,155,42127,5731661
 Stephens,Retail Trade,24,24,84,2014
+Sterling,Total,49,50,296,15266
 Sterling,Accommodation,3,3,5,116
 Sterling,Accommodation and Food Services,3,3,5,116
-Stonewall,Accommodation and Food Services,4,4,23,133
 Stonewall,Food Services and Drinking Places,3,3,21,120
+Stonewall,Total,49,49,452,18914
+Stonewall,Accommodation and Food Services,4,4,23,133
 Stonewall,Retail Trade,4,4,12,303
 Sutton,Accommodation,4,4,94,3207
 Sutton,Accommodation and Food Services,66,66,30144,3953930
 Sutton,Food Services and Drinking Places,5,5,30,296
 Sutton,Retail Trade,10,10,23,592
-Swisher,Accommodation and Food Services,5,5,51,522
-Swisher,Food Services and Drinking Places,4,4,50,509
+Sutton,Total,111,118,1037,49137
+Swisher,Total,131,133,911,30256
 Swisher,Retail Trade,9,9,60,1767
-Tarrant,Accommodation,18056,18157,11001635,2119431974
-Tarrant,Accommodation and Food Services,1884698,1901800,1144924944,211756416407
-Tarrant,Clothing and Clothing Accessories Stores,25219,25328,1094415,2788713334
-Tarrant,Food Services and Drinking Places,1704643,1720743,1034923309,190562384433
-Tarrant,Food and Beverage Stores,50946,51458,17101665,3233938762
+Swisher,Food Services and Drinking Places,4,4,50,509
+Swisher,Accommodation and Food Services,5,5,51,522
+Tarrant,Total,33667,42789,805016,40178984
 Tarrant,General Merchandise Stores,26,26,53,1249
+Tarrant,Food and Beverage Stores,50946,51458,17101665,3233938762
+Tarrant,Food Services and Drinking Places,1704643,1720743,1034923309,190562384433
+Tarrant,Clothing and Clothing Accessories Stores,25219,25328,1094415,2788713334
+Tarrant,Accommodation and Food Services,1884698,1901800,1144924944,211756416407
+Tarrant,Accommodation,18056,18157,11001635,2119431974
 Tarrant,Retail Trade,2962278,3004372,116798806,360661338578
-Taylor,Accommodation,335,335,258117,46182178
 Taylor,Accommodation and Food Services,15267,15285,11062567,1816940311
 Taylor,Clothing and Clothing Accessories Stores,27,27,97,2214
-Taylor,Food Services and Drinking Places,11962,11980,8482450,1355138133
 Taylor,Food and Beverage Stores,19,21,84,1466
 Taylor,Retail Trade,23124,23828,936614,3074727273
+Taylor,Food Services and Drinking Places,11962,11980,8482450,1355138133
+Taylor,Accommodation,335,335,258117,46182178
+Taylor,Total,2953,3451,56046,2120029
+Terrell,Total,14,14,49,1841
 Terrell,Retail Trade,3,3,6,141
+Terry,Total,209,221,2135,75311
 Terry,Accommodation,4,4,39,591
 Terry,Accommodation and Food Services,153,153,11280,14091287
-Terry,Food Services and Drinking Places,113,113,7380,8181287
 Terry,Retail Trade,18,18,80,2688
+Terry,Food Services and Drinking Places,113,113,7380,8181287
 Throckmorton,Retail Trade,8,8,19,532
+Throckmorton,Total,48,49,272,9333
+Titus,Total,579,619,14269,533460
 Titus,Accommodation,11,11,72,1129
 Titus,Accommodation and Food Services,4114,4114,301519,45927135
 Titus,Clothing and Clothing Accessories Stores,9,9,43,898
 Titus,Food Services and Drinking Places,3012,3012,229472,34636439
 Titus,Food and Beverage Stores,5,5,19,327
 Titus,Retail Trade,557,567,331212,88776039
-Tom Green,Accommodation,1712,1712,106307,18724757
-Tom Green,Accommodation and Food Services,13559,13569,9111994,1472932866
-Tom Green,Clothing and Clothing Accessories Stores,28,29,136,3448
-Tom Green,Food Services and Drinking Places,11847,11857,8051687,1285728109
-Tom Green,Food and Beverage Stores,184,184,8484,9211277
 Tom Green,Retail Trade,17929,18138,925556,2813919570
+Tom Green,Food and Beverage Stores,184,184,8484,9211277
+Tom Green,Food Services and Drinking Places,11847,11857,8051687,1285728109
+Tom Green,Clothing and Clothing Accessories Stores,28,29,136,3448
+Tom Green,Accommodation and Food Services,13559,13569,9111994,1472932866
+Tom Green,Accommodation,1712,1712,106307,18724757
+Tom Green,Total,2371,2755,41157,1666200
+Travis,Total,30551,36577,623361,39690510
 Travis,Accommodation,10346,11646,5321641,1471545955
 Travis,Accommodation and Food Services,1494733,1510802,1004928557,225424610992
 Travis,Clothing and Clothing Accessories Stores,22119,22424,1080309,3039811336
@@ -1059,144 +1286,171 @@ Travis,Food Services and Drinking Places,1391687,1394756,951726916,210709565037
 Travis,Food and Beverage Stores,29431,30435,1371974,3304622921
 Travis,General Merchandise Stores,9,9,30,639
 Travis,Retail Trade,2087210,2132261,93446088,314008239575
-Trinity,Accommodation and Food Services,113,114,6968,8111353
-Trinity,Food Services and Drinking Places,103,103,6764,8051040
 Trinity,Food and Beverage Stores,5,5,12,118
 Trinity,Retail Trade,17,17,55,1028
+Trinity,Food Services and Drinking Places,103,103,6764,8051040
+Trinity,Total,168,181,1757,55338
+Trinity,Accommodation and Food Services,113,114,6968,8111353
+Tyler,Total,259,278,2055,64577
 Tyler,Accommodation,4,4,21,322
 Tyler,Accommodation and Food Services,163,163,6954,1113899
 Tyler,Food Services and Drinking Places,123,123,4854,791899
 Tyler,Retail Trade,25,25,115,2372
+Upshur,Retail Trade,435,436,18786,47822517
 Upshur,Accommodation and Food Services,2012,2012,81471,9316486
+Upshur,Total,498,520,4887,178471
 Upshur,Food Services and Drinking Places,1911,1911,78441,9125640
 Upshur,Food and Beverage Stores,3,3,20,331
-Upshur,Retail Trade,435,436,18786,47822517
-Upton,Accommodation and Food Services,6,6,35,271
 Upton,Food Services and Drinking Places,5,5,28,214
+Upton,Accommodation and Food Services,6,6,35,271
+Upton,Total,74,82,1306,82688
+Uvalde,Total,592,641,7087,237737
 Uvalde,Accommodation,235,235,143105,28442734
 Uvalde,Accommodation and Food Services,5514,5517,351387,55486679
 Uvalde,Clothing and Clothing Accessories Stores,6,6,23,765
 Uvalde,Food Services and Drinking Places,329,3212,208282,27043945
 Uvalde,Food and Beverage Stores,10,11,45,770
 Uvalde,Retail Trade,5410,5515,277158,66816858
-Val Verde,Accommodation,13,13,106,1804
-Val Verde,Accommodation and Food Services,5114,5116,369587,49938367
-Val Verde,Clothing and Clothing Accessories Stores,9,9,35,524
-Val Verde,Food Services and Drinking Places,3814,3816,263587,31898367
 Val Verde,Food and Beverage Stores,18,18,57,819
 Val Verde,General Merchandise Stores,4,4,24,1033
+Val Verde,Accommodation and Food Services,5114,5116,369587,49938367
+Val Verde,Accommodation,13,13,106,1804
+Val Verde,Food Services and Drinking Places,3814,3816,263587,31898367
 Val Verde,Retail Trade,7715,7719,335384,751214329
-Van Zandt,Accommodation,8,8,40,552
-Van Zandt,Accommodation and Food Services,6614,6614,425436,67247466
+Val Verde,Clothing and Clothing Accessories Stores,9,9,35,524
+Val Verde,Total,739,811,11484,318611
 Van Zandt,Clothing and Clothing Accessories Stores,5,5,24,625
-Van Zandt,Food Services and Drinking Places,5812,5812,385363,61726175
-Van Zandt,Food and Beverage Stores,4,4,4,159
+Van Zandt,Total,861,910,8648,308420
 Van Zandt,Retail Trade,926,928,436137,112154614
-Victoria,Accommodation,14,14,78,1763
-Victoria,Accommodation and Food Services,10046,10056,6641555,1158727437
-Victoria,Clothing and Clothing Accessories Stores,14,14,71,2074
-Victoria,Food Services and Drinking Places,8644,8654,5861504,982426891
-Victoria,Food and Beverage Stores,183,183,5493,7801534
+Van Zandt,Food and Beverage Stores,4,4,4,159
+Van Zandt,Food Services and Drinking Places,5812,5812,385363,61726175
+Van Zandt,Accommodation and Food Services,6614,6614,425436,67247466
+Van Zandt,Accommodation,8,8,40,552
 Victoria,Retail Trade,17223,17228,857763,2562932004
-Walker,Accommodation,17,17,104,1857
+Victoria,Food and Beverage Stores,183,183,5493,7801534
+Victoria,Food Services and Drinking Places,8644,8654,5861504,982426891
+Victoria,Clothing and Clothing Accessories Stores,14,14,71,2074
+Victoria,Accommodation and Food Services,10046,10056,6641555,1158727437
+Victoria,Accommodation,14,14,78,1763
+Victoria,Total,2079,2325,33413,1523650
+Walker,Total,972,1025,12703,390571
 Walker,Accommodation and Food Services,6320,6321,350628,586610012
-Walker,Clothing and Clothing Accessories Stores,5,5,21,1124
-Walker,Food Services and Drinking Places,4619,4620,246554,40098385
 Walker,Food and Beverage Stores,7,8,40,1073
+Walker,Food Services and Drinking Places,4619,4620,246554,40098385
+Walker,Accommodation,17,17,104,1857
 Walker,Retail Trade,9311,9512,436369,1183017526
+Walker,Clothing and Clothing Accessories Stores,5,5,21,1124
+Waller,Total,772,812,12310,553204
 Waller,Accommodation,9,9,58,999
-Waller,Accommodation and Food Services,307,308,192204,34022981
-Waller,Food Services and Drinking Places,217,218,134204,24032981
-Waller,Food and Beverage Stores,9,9,35,675
 Waller,Retail Trade,536,537,206149,63395095
-Ward,Accommodation,10,10,79,1798
-Ward,Accommodation and Food Services,275,275,160172,41373436
-Ward,Food Services and Drinking Places,173,173,81117,23392397
+Waller,Food and Beverage Stores,9,9,35,675
+Waller,Food Services and Drinking Places,217,218,134204,24032981
+Waller,Accommodation and Food Services,307,308,192204,34022981
 Ward,Food and Beverage Stores,4,4,34,602
+Ward,Accommodation and Food Services,275,275,160172,41373436
+Ward,Total,306,324,4369,267510
+Ward,Accommodation,10,10,79,1798
+Ward,Food Services and Drinking Places,173,173,81117,23392397
 Ward,Retail Trade,11,11,76,2192
+Washington,Total,855,919,12299,454613
 Washington,Accommodation,153,153,8779,18561886
+Washington,Retail Trade,7813,8117,371413,1044914335
 Washington,Accommodation and Food Services,6015,6018,404427,75718554
 Washington,Clothing and Clothing Accessories Stores,9,9,31,764
 Washington,Food Services and Drinking Places,4512,4515,317348,57156668
 Washington,Food and Beverage Stores,7,7,30,690
-Washington,Retail Trade,7813,8117,371413,1044914335
-Webb,Accommodation,179,179,121224,24193538
 Webb,Accommodation and Food Services,20669,20677,13592732,1946341696
-Webb,Clothing and Clothing Accessories Stores,588,6110,270215,65485072
-Webb,Food Services and Drinking Places,18960,18968,12382508,1704438158
-Webb,Food and Beverage Stores,317,329,142235,22134664
-Webb,General Merchandise Stores,8,8,15,294
+Webb,Total,4789,5555,79753,2397660
 Webb,Retail Trade,35841,36559,15681220,3720034338
-Wharton,Accommodation,13,13,30,535
-Wharton,Accommodation and Food Services,4915,4917,345497,47386957
-Wharton,Clothing and Clothing Accessories Stores,5,5,13,156
-Wharton,Food Services and Drinking Places,3615,3617,315497,42036957
-Wharton,Food and Beverage Stores,16,16,46,687
+Webb,General Merchandise Stores,8,8,15,294
+Webb,Food Services and Drinking Places,18960,18968,12382508,1704438158
+Webb,Clothing and Clothing Accessories Stores,588,6110,270215,65485072
+Webb,Accommodation,179,179,121224,24193538
+Webb,Food and Beverage Stores,317,329,142235,22134664
+Wharton,Total,917,1003,11393,435159
 Wharton,Retail Trade,1108,1108,494207,122699125
-Wheeler,Accommodation,9,9,64,1042
-Wheeler,Accommodation and Food Services,203,203,16663,2257706
+Wharton,Accommodation,13,13,30,535
+Wharton,Food and Beverage Stores,16,16,46,687
+Wharton,Food Services and Drinking Places,3615,3617,315497,42036957
+Wharton,Clothing and Clothing Accessories Stores,5,5,13,156
+Wharton,Accommodation and Food Services,4915,4917,345497,47386957
 Wheeler,Food Services and Drinking Places,11,11,102,1215
+Wheeler,Accommodation and Food Services,203,203,16663,2257706
+Wheeler,Accommodation,9,9,64,1042
+Wheeler,Total,163,175,1281,41359
 Wheeler,Retail Trade,16,16,89,2050
-Wichita,Accommodation,235,235,163113,29561496
-Wichita,Accommodation and Food Services,14560,14765,9381997,1369727936
 Wichita,Clothing and Clothing Accessories Stores,17,17,97,2334
-Wichita,Food Services and Drinking Places,12255,12460,7751884,1074126440
-Wichita,Food and Beverage Stores,27,29,90,1648
+Wichita,Accommodation,235,235,163113,29561496
 Wichita,Retail Trade,24019,24320,1073455,2940718608
-Wilbarger,Accommodation,6,6,15,262
+Wichita,Food and Beverage Stores,27,29,90,1648
+Wichita,Food Services and Drinking Places,12255,12460,7751884,1074126440
+Wichita,Total,2715,3060,45571,1692342
+Wichita,Accommodation and Food Services,14560,14765,9381997,1369727936
+Wilbarger,Total,274,289,3245,112984
 Wilbarger,Accommodation and Food Services,206,207,121168,16052759
+Wilbarger,Accommodation,6,6,15,262
 Wilbarger,Food Services and Drinking Places,145,145,106119,13431790
 Wilbarger,Food and Beverage Stores,4,4,12,127
 Wilbarger,Retail Trade,23,23,93,2257
 Willacy,Accommodation,5,5,18,241
-Willacy,Accommodation and Food Services,17,17,92,1064
-Willacy,Food Services and Drinking Places,12,12,74,823
-Willacy,Food and Beverage Stores,3,3,7,136
+Willacy,Total,171,190,2135,68745
 Willacy,Retail Trade,11,11,59,1254
+Willacy,Food and Beverage Stores,3,3,7,136
+Willacy,Food Services and Drinking Places,12,12,74,823
+Willacy,Accommodation and Food Services,17,17,92,1064
+Williamson,Total,9625,11419,166460,8580799
+Williamson,General Merchandise Stores,3,3,4,39
 Williamson,Accommodation,3820,3820,321541,730910303
 Williamson,Accommodation and Food Services,454190,454199,28476497,54535119415
 Williamson,Clothing and Clothing Accessories Stores,40,40,143,4075
+Williamson,Retail Trade,67568,68275,26821859,8202982120
 Williamson,Food Services and Drinking Places,416170,416179,25265956,47226109112
 Williamson,Food and Beverage Stores,887,888,328143,62943132
-Williamson,General Merchandise Stores,3,3,4,39
-Williamson,Retail Trade,67568,68275,26821859,8202982120
+Wilson,Total,673,718,6517,242089
+Wilson,Retail Trade,529,529,246168,62777617
 Wilson,Accommodation,10,10,46,828
 Wilson,Accommodation and Food Services,467,467,281193,41632781
 Wilson,Clothing and Clothing Accessories Stores,3,3,2,59
 Wilson,Food Services and Drinking Places,366,366,235161,33352242
 Wilson,Food and Beverage Stores,7,7,33,356
-Wilson,Retail Trade,529,529,246168,62777617
-Winkler,Accommodation,3,3,16,316
-Winkler,Accommodation and Food Services,8,8,35,740
-Winkler,Food Services and Drinking Places,5,5,19,424
 Winkler,Food and Beverage Stores,3,3,29,655
 Winkler,Retail Trade,12,12,65,1920
+Winkler,Food Services and Drinking Places,5,5,19,424
+Winkler,Total,168,183,2573,188565
+Winkler,Accommodation,3,3,16,316
+Winkler,Accommodation and Food Services,8,8,35,740
 Wise,Accommodation,19,19,94,1357
 Wise,Accommodation and Food Services,5617,5619,322479,48097318
 Wise,Clothing and Clothing Accessories Stores,9,9,27,427
 Wise,Food Services and Drinking Places,3717,3719,228479,34527318
 Wise,Food and Beverage Stores,15,15,64,1195
 Wise,Retail Trade,1068,1088,579264,1539612611
-Wood,Accommodation,12,12,48,1262
-Wood,Accommodation and Food Services,5315,5316,301400,48965517
-Wood,Clothing and Clothing Accessories Stores,4,4,11,136
-Wood,Food Services and Drinking Places,4114,4115,253353,36344798
+Wise,Total,1274,1368,18308,886374
 Wood,Food and Beverage Stores,3,3,23,347
+Wood,Total,743,806,7984,300575
 Wood,Retail Trade,707,707,375128,104965726
-Yoakum,Accommodation and Food Services,18,18,74,1172
-Yoakum,Food Services and Drinking Places,16,16,69,1103
+Wood,Accommodation and Food Services,5315,5316,301400,48965517
+Wood,Accommodation,12,12,48,1262
+Wood,Food Services and Drinking Places,4114,4115,253353,36344798
+Wood,Clothing and Clothing Accessories Stores,4,4,11,136
 Yoakum,Retail Trade,18,18,77,2631
+Yoakum,Accommodation and Food Services,18,18,74,1172
+Yoakum,Total,178,192,2177,133476
+Yoakum,Food Services and Drinking Places,16,16,69,1103
 Young,Accommodation,4,4,56,1265
 Young,Accommodation and Food Services,256,257,183211,33283488
 Young,Clothing and Clothing Accessories Stores,3,3,9,198
 Young,Food Services and Drinking Places,216,217,127211,20633488
+Young,Total,556,579,5753,244532
 Young,Retail Trade,423,423,24392,67332350
 Zapata,Accommodation,4,4,15,180
 Zapata,Accommodation and Food Services,16,16,79,830
 Zapata,Food Services and Drinking Places,12,12,64,650
 Zapata,Retail Trade,104,104,3658,6061215
-Zavala,Accommodation,3,3,9,237
+Zapata,Total,130,133,1609,54522
+Zavala,Retail Trade,11,11,36,350
 Zavala,Accommodation and Food Services,14,14,85,991
+Zavala,Accommodation,3,3,9,237
+Zavala,Total,94,103,1371,37332
 Zavala,Food Services and Drinking Places,11,11,76,754
 Zavala,Food and Beverage Stores,3,3,7,80
-Zavala,Retail Trade,11,11,36,350
