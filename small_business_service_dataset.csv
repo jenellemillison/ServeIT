@@ -1,4 +1,4 @@
-County,Unemp_2016,Unemp_2017,Unemp_2018,Unemp_2019,Unemp_2020,NAICS_Description,Enterprise_Size,Firms,Establishments,Employment,Annual_Payroll,MEDIAN_AGE_TOT,MEDIAN_AGE_MALE,MEDIAN_AGE_FEM,DIST_ALLR_GRAD,Income,Rural,Lat,Long,jan1_2020_pop_est,pct_chg_10_20
+County,Unemp_2016,Unemp_2017,Unemp_2018,Unemp_2019,Unemp_2020,NAICS_Description,Enterprise_Size,Firms,Establishments,Employment,Annual_Payroll,MEDIAN_AGE_TOT,MEDIAN_AGE_MALE,MEDIAN_AGE_FEM,DIST_ALLR_GRAD,Income,Rural,Lat,Long,population,pct_chg_10_20
 Anderson,4.3,3.7,3.1,2.9,5.6,Accommodation,2: <20 employees,13.0,13.0,72.0,1434.0,39.2,38.5,41.0,97.4142857142857,48461.0,1.0,31.81321543,-95.65251774,59120.0,1.1
 Anderson,4.3,3.7,3.1,2.9,5.6,Retail Trade,2: <20 employees3: 20-99 employees,797.0,7910.0,335221.0,90267307.0,39.2,38.5,41.0,97.4142857142857,48461.0,1.0,31.81321543,-95.65251774,59120.0,1.1
 Anderson,4.3,3.7,3.1,2.9,5.6,Food and Beverage Stores,2: <20 employees,9.0,9.0,36.0,565.0,39.2,38.5,41.0,97.4142857142857,48461.0,1.0,31.81321543,-95.65251774,59120.0,1.1
