@@ -14,4 +14,4 @@ print(long_lats)
 long_lats = long_lats.iloc[:, :3]
 long_lats.rename(columns={'X (Lat)':'Lat', 'Y (Long)':'Long', 'CNTY_NM':'County'}, inplace=True)
 print(long_lats)
-long_lats.to_csv('../cleaned_data/long_lats.csv')
+long_lats.to_csv('../cleaned_data/long_lats.csv', index=False)
