@@ -22,5 +22,5 @@ dfs.append(pd.read_csv('./cleaned_data/2020_population.csv'))
 final_dataset = pd.DataFrame(columns=['County'])
 for i in range(len(dfs)):
     final_dataset = final_dataset.merge(dfs[i], on='County', how='outer')
-final_dataset.dropna(axis=0, inplace=True)
+final_dataset.fillna(0, inplace=True)
 final_dataset.to_csv('small_business_service_dataset.csv', index=False)
