@@ -10,7 +10,7 @@ import pandas as pd
 dfs = []
 #horrible practice... I know... I know, but it's a hackathon ¯\_(ツ)_/¯
 dfs.append(pd.read_csv('./cleaned_data/2016-to-2020-unemployment-data.csv'))
-#dfs.append(pd.read_csv('./cleaned_data/2019_tx_county_final_business_data.csv'))
+dfs.append(pd.read_csv('./cleaned_data/2019_tx_county_final_business_data.csv'))
 dfs.append(pd.read_csv('./cleaned_data/total_payroll.csv'))
 dfs.append(pd.read_csv('./cleaned_data/2020_tx_county_age_data.csv'))
 dfs.append(pd.read_csv('./cleaned_data/2020-graduation-rate-data.csv'))
