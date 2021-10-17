@@ -8,7 +8,6 @@ Graphs based off of Annual_Payroll
 import streamlit as st
 import pandas as pd
 import numpy as np
-import plotly.express as px
 import altair as alt
 import pydeck as pdk
 import time
