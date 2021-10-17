@@ -7,7 +7,6 @@ Graphs based off of Annual_Payroll
 
 import streamlit as st
 import pandas as pd
-import numpy as np
 import altair as alt
 import pydeck as pdk
 import time
@@ -15,12 +14,30 @@ import time
 st.set_page_config(
     page_title="ServiceIT",
     page_icon=":bell:",
+    layout="wide",
+    menu_items={
+        'Get Help': 'https://github.com/jenellemillison/ServeIT/wiki',
+        'Report a bug': "https://github.com/jenellemillison/ServeIT/issues",
+        'About': "# This is some of our first times at a Datathon!"
+    }
 )
 
 PAYROLL = 'Tot_Annual_Payroll'
 DATA_URL = ('https://raw.githubusercontent.com/jenellemillison/ServeIT/main/small_business_service_dataset.csv')
 
+st.markdown(
+    """
+    <style>
+    .reportview-container {
+        background: url("https://images.unsplash.com/photo-1597773150796-e5c14ebecbf5?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YWJzdHJhY3QlMjBibHVlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80")
+    }
+    </style>
+    """,
+    unsafe_allow_html=True
+)
+
 st.header(':bell: Welcome to ServeIT :bell:')
+st.caption('Starting a new service business? Use this collection of data to help you determine how to make a successful business!')
 
 @st.cache
 def load_data(nrows):
@@ -84,6 +101,13 @@ map_style='mapbox://styles/mapbox/light-v9',
     ],
 ))
 
+st.caption('The data above represents the population distribution throughout Texas')
+
 with st.expander("Open to see the raw data"):
     st.subheader('Raw Data')
     st.write(data)
+
+if st.button('Say Hello'):
+    st.write('Why hello there general Kenobi')
+else:
+    st.write('goodbye')

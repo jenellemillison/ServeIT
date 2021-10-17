@@ -1,2 +1,22 @@
 # ServeIT
 Starting a new service business? Use this repo to help you determine how to make a successful business.
+
+## Inspiration
+Now is a strange time. There seems to be self-owned businesses growing from pandemic free time and the service industry is experiencing a gap between open positions and workers to fill them. This has become a heated debate, but what does it mean? Is it a "reassessment of work in America" (Washington Post), a bunch of adults having mid-life crises post-pandemic (Click On Detroit), or just a market anomaly (Business Insider)?
+We wanted to investigate. More importantly, we wanted to help small businesses owners find their workers.
+
+- [Washington Post: Labor Shortage](https://www.washingtonpost.com/business/2021/05/07/jobs-report-labor-shortage-analysis/)
+- [clickondetroit: Labor Shortage](https://www.clickondetroit.com/news/local/2021/10/15/labor-shortage-why-its-here-and-what-can-be-done/)
+- [Business Insider: Labor Shortage](https://www.businessinsider.com/3-reasons-for-labor-shortage-according-to-biden-labor-secretary-2021-10)
+## What it does
+ServeIT connects struggling small business owners in Texas to the data they need to stay ahead of their competition. ServeIT is a database available, with visualizations of possible use cases, at servit.us. The database contains 1458 rows of data for 254 counties in Texas, further separated into the 1458 by area of the service industry according to the North American Industry Classification System. The classes chosen for this dataset represent service industries such as 'Food Services and Drinking Places', 'Accommodation and Food Services', 'Accommodation', 'Food and Beverage Stores'. Each of these rows correspond to 23 features including median income, median age, number of establishments (with under 100 employees), unemployment rate, population statistics, high school graduation rates, rural or urban, latitude/longitude, and total annual payroll per county. These features will help small business owners decide which counties to have their business or target for workers based on what they are looking for in a worker (such as age or graduation) and opportunity (population, unemployment rate, or other establishment). Visualizations of things like population data, establishment, and the entire data table are available at http://www.serveit.us.
+## How we built it
+Our team searched for the data that would be most helpful to small business owners in Texas. We search the Census, The County Information Program, Texas Commission on the Arts, Texas Demographics Center, and more to compile our dataset. We used BeautifulSoup and pandas to scrape webpages; pandas functions and DataFrames to compile and clean our data into one source; alt-air and pydeck to visualize our data, and Streamlit to display these visualization and make it available to the public.
+## Challenges we ran into
+Our team found getting all the data from many different formats such as php, html, text, and more to be the most difficult part. For instance, we originally tried to make our own solution using BeautifulSoup to scrape a table in php but later found a better solution using pandas.
+## Accomplishments that we're proud of
+We are proud of our dedication throughout this project. Only one of us came in with substantial prior knowledge in data science and we were able to produce a sizeable dataset that can fit the needs of small business owners in San Antonio. We are also proud of the fact we were able to share our results online.
+## What we learned
+We learned how to scrape websites with tables, text, and other formatting as well as how to use StreamLit. These were two tasks we were very unfamiliar with before. We also learned the importance of data virtualization. The data by itself can sometimes seem meaningless without the platform the web provides and some useful visualizations. We had to ask ourselves what our data meant or could mean when putting this project together, and we hope others ask the same questions and think critically surrounding their data.
+## What's next for ServiceIT
+With more time, we would love to improve the visualizations and descriptions at http://www.serveit.us. Furthermore, we would like to study our features more closely - specifically correlation coefficients, principal component analysis, and visualizations - in order to more comprehensively evaluate the successfulness of this dataset in achieving its task: to help small business owners in Texas find workers and therefore grow and succeed with their businesses.
