@@ -16,6 +16,7 @@ dfs.append(pd.read_csv('./cleaned_data/2020-graduation-rate-data.csv'))
 dfs.append(pd.read_csv('./cleaned_data/median-income-data.csv'))
 dfs.append(pd.read_csv('./cleaned_data/rural-counties.csv'))
 dfs.append(pd.read_csv('./cleaned_data/long_lats.csv'))
+dfs.append(pd.read_csv('./cleaned_data/2020_population.csv'))
 
 final_dataset = pd.DataFrame(columns=['County'])
 for i in range(len(dfs)):
