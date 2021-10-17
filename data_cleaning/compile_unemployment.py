@@ -7,11 +7,19 @@ table = pd.read_html('https://txcip.org/tac/census/morecountyinfo.php?MORE=1042'
 
 uRate = table[0]
 
-YEARS = ['2016', '2017', '2018', '2019']
+header = uRate.iloc[0:1, :]
+uRate = uRate[1:]
+uRate.rename(columns={0:'County', 1:'Unemp_2016', 2:'Unemp_2017', 3:'Unemp_2018', 4:'Unemp_2019'}, inplace=True)
+
+YEARS = ['Unemp_2016', 'Unemp_2017', 'Unemp_2018', 'Unemp_2019']
 for year in YEARS:
     uRate.replace('%', '', regex=True, inplace=True)
-    uRate[1].astype(float)
-    uRate[2].astype(float)
-    uRate[3].astype(float)
-uRate.to_csv('../cleaned_data/2016-to-2020-unemployment-data.csv', index=False, header=False)
+    uRate[year].astype(float)
+    uRate[year].astype(float)
+    uRate[year].astype(float)
+    
+print(uRate)
+
+
+uRate.to_csv('../cleaned_data/2016-to-2020-unemployment-data.csv', index=False)
 

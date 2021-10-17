@@ -1,11 +1,9 @@
 import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-from unicodedata import normalize
 
 table = pd.read_html('https://txcip.org/tac/census/morecountyinfo.php?MORE=1013', skiprows=1, header=None)
 
 uRate = table[0]
-strList = ['County', 'Income']
-uRate.to_csv('../cleaned_data/median-income-data.csv', index=False, header=strList)
-print(uRate)
+uRate.rename(columns={0:'County', 1:'Income'}, inplace=True)
+uRate['Income'].replace('\$', '', regex=True, inplace=True)
+uRate['Income'].replace(',', '', regex=True, inplace=True)
+uRate.to_csv('../cleaned_data/median-income-data.csv', index=False)
