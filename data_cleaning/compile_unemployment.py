@@ -9,7 +9,7 @@ uRate = table[0]
 
 header = uRate.iloc[0:1, :]
 uRate = uRate[1:]
-uRate.rename(columns={0:'County', 1:'Unemp_2016', 2:'Unemp_2017', 3:'Unemp_2018', 4:'Unemp_2019'}, inplace=True)
+uRate.rename(columns={0:'County', 1:'Unemp_2016', 2:'Unemp_2017', 3:'Unemp_2018', 4:'Unemp_2019', 5:'Unemp_2020'}, inplace=True)
 
 YEARS = ['Unemp_2016', 'Unemp_2017', 'Unemp_2018', 'Unemp_2019']
 for year in YEARS:
