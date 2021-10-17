@@ -1,4 +1,4 @@
-County,Unemp_2016,Unemp_2017,Unemp_2018,Unemp_2019,5,NAICS_Description,Firms,Establishments,Employment,Annual_Payroll,MEDIAN_AGE_TOT,MEDIAN_AGE_MALE,MEDIAN_AGE_FEM,DIST_ALLR_GRAD,Income
+County,Unemp_2016,Unemp_2017,Unemp_2018,Unemp_2019,Unemp_2020,NAICS_Description,Firms,Establishments,Employment,Annual_Payroll,MEDIAN_AGE_TOT,MEDIAN_AGE_MALE,MEDIAN_AGE_FEM,DIST_ALLR_GRAD,Income
 Anderson,4.3,3.7,3.1,2.9,5.6,Accommodation,13.0,13.0,72.0,1434.0,39.2,38.5,41.0,97.4142857142857,48461.0
 Anderson,4.3,3.7,3.1,2.9,5.6,Retail Trade,797.0,7910.0,335221.0,90267307.0,39.2,38.5,41.0,97.4142857142857,48461.0
 Anderson,4.3,3.7,3.1,2.9,5.6,Food and Beverage Stores,9.0,9.0,36.0,565.0,39.2,38.5,41.0,97.4142857142857,48461.0
